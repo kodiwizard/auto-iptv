@@ -1,1 +1,1113 @@
+#EXTM3U
 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="###### -- |UK| UNITED KINGDOM |UK| -- ######" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4G5ctnnTxbySAKHR0uYYvIS35JBaEAljpZHUwraQmy3MpgzCKEJ3zyaE" group-title="",###### -- |UK| UNITED KINGDOM |UK| -- ######
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/22497.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK  | ***** UK SPORT *****" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOheDmg4Oivt9kVHf22aloGrxqCJHiTZX1MOiqo6VVFiW_blMllRgcPsMT" group-title="UNITED KINGDOM",|UK  | ***** UK SPORT *****
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31409.ts
+#EXTINF:-1 tvg-id="Sky1.uk" tvg-name="|UK  | Sky Sport 1 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu5Sl1uNirllgYvmuLB4-HneTCYigr_uWGRpVG_nLzFQLeg9C0V3FDvqSC" group-title="UNITED KINGDOM",|UK  | Sky Sport 1 SD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30966.ts
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="|UK  | Sky Sport Arena HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYWp5v9NlLrA_IOmaSM_GaYoX4hdoEt60PtMB5Wthze6RkkMhg4-iOttRzIw" group-title="UNITED KINGDOM",|UK  | Sky Sport Arena HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30863.ts
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="|UK  | Sky Sport F1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy9EKB-1w7GHAM-l2Znem5O5JD0O-JmNdpGi0oobrLL5lsFEU7QjBlIZU" group-title="UNITED KINGDOM",|UK  | Sky Sport F1 HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30967.ts
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="|UK  | Sky Sport Football HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK6l10UPnNFfgBmOAkddk09YuROI42OZDm4lTTKnCslamxg52BXJW4YU4s" group-title="UNITED KINGDOM",|UK  | Sky Sport Football HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30862.ts
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="|UK  | SKY SPORTS ACTION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA7rJrGpcoJ8xbgIky24-tICRuCmrnUWoHJe8WSXSbH7XIE3oZne_z9B_zkQ" group-title="UNITED KINGDOM",|UK  | SKY SPORTS ACTION
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31086.ts
+#EXTINF:-1 tvg-id="SkyAction.uk" tvg-name="|UK  | SKY SPORTS ACTION HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA7rJrGpcoJ8xbgIky24-tICRuCmrnUWoHJe8WSXSbH7XIE3oZne_z9B_zkQ" group-title="UNITED KINGDOM",|UK  | SKY SPORTS ACTION HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30941.ts
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="|UK  | SKY SPORTS CRICKET" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi5lgHeB3HnuVL8CiW_JBoJEXYvTxKHzMvv0y-ZT3Vcl9MSDDWdQRsfF3w" group-title="UNITED KINGDOM",|UK  | SKY SPORTS CRICKET
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31085.ts
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="|UK  | SKY SPORTS CRICKET HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkaxJ5-rcfIwjGr7ZzJ02HEXOh117_ADDiYWEz5rBOOv0u9BSJZAOeB7WGsA" group-title="UNITED KINGDOM",|UK  | SKY SPORTS CRICKET HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30940.ts
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="|UK  | SKY SPORTS GOLF" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1r70EOyVpwyarofo9TwsaBs4IRz3wW9D49hocUiTSIMQ5gV6c2r83zubKrQ" group-title="UNITED KINGDOM",|UK  | SKY SPORTS GOLF
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31087.ts
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="|UK  | SKY SPORTS GOLF HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1r70EOyVpwyarofo9TwsaBs4IRz3wW9D49hocUiTSIMQ5gV6c2r83zubKrQ" group-title="UNITED KINGDOM",|UK  | SKY SPORTS GOLF HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30942.ts
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="|UK  | SKY SPORTS MAIN EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwtLFCq66ONmU_7G0hol0Zad1Fn2_l1Ir7l-muquyUHOYqe7Rej7uskNnj" group-title="UNITED KINGDOM",|UK  | SKY SPORTS MAIN EVENT
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31084.ts
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="|UK  | SKY SPORTS MAIN EVENT HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwtLFCq66ONmU_7G0hol0Zad1Fn2_l1Ir7l-muquyUHOYqe7Rej7uskNnj" group-title="UNITED KINGDOM",|UK  | SKY SPORTS MAIN EVENT HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30945.ts
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="|UK  | Sky Sports Mix" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuJgkFeg78Qu8EPvae-1cnYPLR1P4_YuCATY0Zmcf0QuCG05AVszQmsimz" group-title="UNITED KINGDOM",|UK  | Sky Sports Mix
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31025.ts
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="|UK  | SKY SPORTS PREMIER LEAGUE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShRautVdTH5WhiOwV-a-ChScFrjimXb30I7GKmMS804p7dl9ylqC51IfP2oQ" group-title="UNITED KINGDOM",|UK  | SKY SPORTS PREMIER LEAGUE
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31088.ts
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="|UK  | SKY SPORTS PREMIER LEAGUE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuJgkFeg78Qu8EPvae-1cnYPLR1P4_YuCATY0Zmcf0QuCG05AVszQmsimz" group-title="UNITED KINGDOM",|UK  | SKY SPORTS PREMIER LEAGUE HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30943.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK  | Sky Sports The Open HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyG6rnmSlvQYRRXTv5fHSmrlzv7ye9RXzslevhXi8XUs0Da6NnEgQiA4y1" group-title="UNITED KINGDOM",|UK  | Sky Sports The Open HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30858.ts
+#EXTINF:-1 tvg-id="Sky1.uk" tvg-name="VIP |UK  | Sky Sports 1 HD 1080p" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl1xR2gccco8oEO2mT3R-7aOSDUVPGJvnY0AbQ-Hb5kSO9u9IovOQcX4KS" group-title="UNITED KINGDOM",VIP |UK  | Sky Sports 1 HD 1080p
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30999.ts
+#EXTINF:-1 tvg-id="Sky2.uk" tvg-name="VIP |UK  | Sky Sports 2 HD 1080p" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl1xR2gccco8oEO2mT3R-7aOSDUVPGJvnY0AbQ-Hb5kSO9u9IovOQcX4KS" group-title="UNITED KINGDOM",VIP |UK  | Sky Sports 2 HD 1080p
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30998.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP |UK  | Sky Sports 3 HD 1080p" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl1xR2gccco8oEO2mT3R-7aOSDUVPGJvnY0AbQ-Hb5kSO9u9IovOQcX4KS" group-title="UNITED KINGDOM",VIP |UK  | Sky Sports 3 HD 1080p
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30997.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP |UK  | Sky Sports 4 HD 1080p" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl1xR2gccco8oEO2mT3R-7aOSDUVPGJvnY0AbQ-Hb5kSO9u9IovOQcX4KS" group-title="UNITED KINGDOM",VIP |UK  | Sky Sports 4 HD 1080p
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30996.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP |UK  | Sky Sports 5 HD 1080p" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl1xR2gccco8oEO2mT3R-7aOSDUVPGJvnY0AbQ-Hb5kSO9u9IovOQcX4KS" group-title="UNITED KINGDOM",VIP |UK  | Sky Sports 5 HD 1080p
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30995.ts
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="VIP |UK  | Sky Sports F1 HD 1080p" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcsv7FP-5dJxJyK4kUWwjG8XAlPPuvBP17Rl0sRMs54gKNOyG8Ik5Wp6z5" group-title="UNITED KINGDOM",VIP |UK  | Sky Sports F1 HD 1080p
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30994.ts
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="|UK  | BT Sport 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPzyhdtYYrWwhvYPtN0mtFngOPFmCwbLFGipvrseX_HD_P9nYzNc8V6UnJ" group-title="UNITED KINGDOM",|UK  | BT Sport 1 HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30904.ts
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="|UK  | BT Sport 1 backup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdgYzHYGcX4QVo6aUg9ldqgshMROUhNREA7QC3AmILlUWgCCtuY4tda0wf" group-title="UNITED KINGDOM",|UK  | BT Sport 1 backup
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30871.ts
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="|UK  | BT Sports 2 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzqej_oW9ktalZFS_ggPXbI2e6W5576RzgE87545FSKF_Nj0ot6T8_0PM" group-title="UNITED KINGDOM",|UK  | BT Sports 2 SD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31044.ts
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="|UK  | BT Sport 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwG1fngTbsBLgKZSbw2RIs-rTEYglLpoipMdQs3S2ouVfh0DY-X3uimLU" group-title="UNITED KINGDOM",|UK  | BT Sport 2 HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30905.ts
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="VIP |UK  | BT Sport 2 HD 1080p" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToCNLeld7bsWivHP09OhW2mxHmNNfsY-X8AQR4xItGjqirJrEXmNtkfgw" group-title="UNITED KINGDOM",VIP |UK  | BT Sport 2 HD 1080p
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31001.ts
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="|UK  | BT Sport 3 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg2HXvhMkAsFCaJtxzPKTGznYbrXtQBK2O8MkBCl74ZWEuwGZIab11S8Y" group-title="UNITED KINGDOM",|UK  | BT Sport 3 SD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31036.ts
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="|UK  | BT Sport 3 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_eir_85bWUUrNVPGbEIO59o4twAg9YIHYU0BH0qFWzQO3GPJbFZKvtos" group-title="UNITED KINGDOM",|UK  | BT Sport 3 HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31027.ts
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="VIP |UK  | BT Sport 3 HD 1080p" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpjZ4K1CQAFpbOIjzM7u66eW-xmOzTbd1RwO6-eSjUS_sZEaWYQDBcmoc" group-title="UNITED KINGDOM",VIP |UK  | BT Sport 3 HD 1080p
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31000.ts
+#EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-name="|UK  | BT Sport ESPN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg2HXvhMkAsFCaJtxzPKTGznYbrXtQBK2O8MkBCl74ZWEuwGZIab11S8Y" group-title="UNITED KINGDOM",|UK  | BT Sport ESPN
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30906.ts
+#EXTINF:-1 tvg-id="BTSportX1.uk" tvg-name="|UK  | BT Sport Extra 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyBC_jbSqq5NLCTmzbLo4TahTxmFlhA2dnfSZNM2QN0mbFtGfKWUyxYlE" group-title="UNITED KINGDOM",|UK  | BT Sport Extra 1
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31037.ts
+#EXTINF:-1 tvg-id="BTSportX2.uk" tvg-name="|UK  | BT Sport Extra 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyM9-FCUNA8Ntshmf8v4cq9z21InIMPDq_d8Myfj4ZQIb0iAbKZvYhCQ" group-title="UNITED KINGDOM",|UK  | BT Sport Extra 2
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31038.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK  | BT Sport Extra 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9YVVDUc7MhzIXGWWpeAvHA_mxJAxaRzw9FGqYGm5m8J4k9wy0zttGItU" group-title="UNITED KINGDOM",|UK  | BT Sport Extra 3
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31039.ts
+#EXTINF:-1 tvg-id="BTSportX4.uk" tvg-name="|UK  | BT Sport Extra 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhkKevU4U2mLNrAX-cW99HuZrWU-i6J0Yt7n4M0vyj8zP6opSVk4bMsGU" group-title="UNITED KINGDOM",|UK  | BT Sport Extra 4
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31040.ts
+#EXTINF:-1 tvg-id="BTSportX5.uk" tvg-name="|UK  | BT Sport Extra 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIgNYZ6LWYJ5oQv5HLirK6g9LaJXk-zRZ7cLJlKykzOM2W7fjatCxhSA" group-title="UNITED KINGDOM",|UK  | BT Sport Extra 5
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31041.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK  | BT Sport Europe HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVMP3e0AcIonGjI2NQX__9wU58pzh4vqOpBT8r3rBoQQmyOOnRJhKmwxtw" group-title="UNITED KINGDOM",|UK  | BT Sport Europe HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30907.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK  | BT Sport Mosaic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcx4K6JXw5iZXqXJ25VxFvP14bFVCZIPCiCJ76Tsb_MRNCQdRXMEql2v8" group-title="UNITED KINGDOM",|UK  | BT Sport Mosaic
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31042.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK  | BT Sport Mosaic 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7MqiZqKVax0f0z1e7w_YDd186-B2WS_gDYtLkNPMIwpgggzg4ZQmDXXJJ" group-title="UNITED KINGDOM",|UK  | BT Sport Mosaic 2
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31043.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK  | Chelsea FC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK33r1PGX0rJhtxNmyFCUE-Mcu1xuzJ_A4evv5d-ZHVeo3bVIUVIpGmAAGWQ" group-title="UNITED KINGDOM",|UK  | Chelsea FC
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31047.ts
+#EXTINF:-1 tvg-id="ChelseaTV.uk" tvg-name="|UK  | Chelsea TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRndgCco-02-LIpdwOdXJp94tElu2Ju_feyiboAF3gjieevV9CZLs4AtIo" group-title="UNITED KINGDOM",|UK  | Chelsea TV
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30950.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK  | Eir Sports1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFboCnluK5ob79dAmBfEq87tmOWu5InViy9Q7N7mFizuOo41n_6kjxR90" group-title="UNITED KINGDOM",|UK  | Eir Sports1
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31055.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK  | Eir Sports2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt6vCqpF9NeVa6L5j-zl7lvhjjRpWub0u4WDpqYGdpdMRMaE85NOjVog" group-title="UNITED KINGDOM",|UK  | Eir Sports2
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31056.ts
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="|UK  | Eurosport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4F4OC7erwDkQPz9mvGEi9zsSmKZapB9NDD3BG-4WynNoUK4CRzVhey8M" group-title="UNITED KINGDOM",|UK  | Eurosport 1
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31057.ts
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="|UK  | EUROSPORT 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKm0JRd2ywZIspkLQ8Ufp8eCOOXfVEtB91rrHG4Ug0Hf8vrUBq9_dahG9A" group-title="UNITED KINGDOM",|UK  | EUROSPORT 1 HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30890.ts
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="|UK  | Eurosport 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZVdhDDbVHS72v-1aeA8XtkdKqToIoz1NqHlklqlIlDNRlvOpNooUXsqQ" group-title="UNITED KINGDOM",|UK  | Eurosport 2
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31058.ts
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="|UK  | EUROSPORT 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZVdhDDbVHS72v-1aeA8XtkdKqToIoz1NqHlklqlIlDNRlvOpNooUXsqQ" group-title="UNITED KINGDOM",|UK  | EUROSPORT 2 HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30891.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK  | Manchester United TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTti8NtwT_4cAwIfWhlQWFM5-OuDkxJTMBb5PX5n4W1lgtabtWVuHRoEGo" group-title="UNITED KINGDOM",|UK  | Manchester United TV
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30958.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK  | Celtic FC TV (Live for Matches )" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzqHZtfuVs-3V1cS3_bgwKCMaTq-AcBxxd8aion6tYalb0jJWdD_GUaB02" group-title="UNITED KINGDOM",|UK  | Celtic FC TV (Live for Matches )
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30894.ts
+#EXTINF:-1 tvg-id="PremierSports.uk" tvg-name="|UK  | Premier Sports HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDoEFwodZnkKje0g6B2R8-iMj1iqomwnvldVTC0ORokkyAVS-WsK-zdw" group-title="UNITED KINGDOM",|UK  | Premier Sports HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31024.ts
+#EXTINF:-1 tvg-id="PremierSports.uk" tvg-name="|UK  | PREMIERE SPORT HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwHSGABYeqn-Ip9Nm2oMgPm3T_MTBEpcqHsROZNs3asump9iBADm_3R8w" group-title="UNITED KINGDOM",|UK  | PREMIERE SPORT HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31077.ts
+#EXTINF:-1 tvg-id="PremierSports.uk" tvg-name="VIP |UK  | Premier Sports FHD 1080" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO6kajQViB7UD1qZPZKRhax6PWl5Rx1hOAscibhRCdUhbs6xaay_EDYhtj" group-title="UNITED KINGDOM",VIP |UK  | Premier Sports FHD 1080
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30989.ts
+#EXTINF:-1 tvg-id="BoxNation.uk" tvg-name="|UK  | Boxnation" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDB80GAzaalCGKhpZA093du6B2YmQk5taDm41-gUSkXGPfi3DyBVNYS4FL" group-title="UNITED KINGDOM",|UK  | Boxnation
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30903.ts
+#EXTINF:-1 tvg-id="AtTheRaces.uk" tvg-name="|UK  | At The Races" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6wkS4cbasi2pTlFFgAMplOCksLYKJgwEyLeER_815_Rn0zHF3M8rBWUU" group-title="UNITED KINGDOM",|UK  | At The Races
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31033.ts
+#EXTINF:-1 tvg-id="MotorsTV.uk" tvg-name="|UK  | Mototrs TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR63dWVedTIB2OgWboGs4JgOoseIWeeZ3N-ha17j25My4v610w9ydm3g9Cx" group-title="UNITED KINGDOM",|UK  | Mototrs TV
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30960.ts
+#EXTINF:-1 tvg-id="RacingUK.uk" tvg-name="|UK  | Racing UK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfURkbcBGrERJcfU4wRZ0XmCu5A1PA38-cy5ULzccJMEx6Snofb9Tgyxd1" group-title="UNITED KINGDOM",|UK  | Racing UK
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31078.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK  | RANGERS FC TV (matchtime)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyhrXOc6NH6t-riTScOgYa-zx47wMRxwf943AFJyQPfLtWM3UNxjMBY7A" group-title="UNITED KINGDOM",|UK  | RANGERS FC TV (matchtime)
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30893.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK  | ***** UK MOVIES *****" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ23ZiPwnEa1ognwiv7iTZAYTu6pKZ7bh2iv6mqK7uqlXuTqUwcZz1KBMI" group-title="UNITED KINGDOM",|UK  | ***** UK MOVIES *****
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31408.ts
+#EXTINF:-1 tvg-id="5star.uk" tvg-name="|UK  | 5Star" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQni1BoGVaAwPxAa7LrXRgJAhuE1VFisyQ3uiAV27Oj4mosF9BEkLfulWY" group-title="UNITED KINGDOM",|UK  | 5Star
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31030.ts
+#EXTINF:-1 tvg-id="FiveUSA.uk" tvg-name="|UK  | 5USA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwXuE0t8VI3xk5LtgLXnmF3xePQ5b-3nRQx_T8A2NziWepTDcCsnuOQi8" group-title="UNITED KINGDOM",|UK  | 5USA
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31023.ts
+#EXTINF:-1 tvg-id="SkyAction.uk" tvg-name="|UK  | Sky Cinema Action HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw0aUE1nk2Vz38L_I7diKfFDAxQISLJotlMXdy5RX8ObzstyIYhj85Ps96" group-title="UNITED KINGDOM",|UK  | Sky Cinema Action HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30986.ts
+#EXTINF:-1 tvg-id="SkyComedy.uk" tvg-name="|UK  | Sky Cinema Comedy HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3r__VhYSyUfa6u8x_DpqCCKn-VEhvVb7PGwkmBc1G_7kTWv848x7tp2w" group-title="UNITED KINGDOM",|UK  | Sky Cinema Comedy HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30985.ts
+#EXTINF:-1 tvg-id="SkyCrimeThriller.uk" tvg-name="|UK  | Sky Cinema Crime & Thriller HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9f7zpwSc7pvJ4ezYDDT1VUufW9VEZ5pBrWobm_kn8nEG_TPhwmR9gUZQ" group-title="UNITED KINGDOM",|UK  | Sky Cinema Crime & Thriller HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30984.ts
+#EXTINF:-1 tvg-id="SkyDisney.uk" tvg-name="|UK  | Sky Cinema Disney HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9pOA1aVlcmXVYRC8js7HLjtwn-BU7wLszbpAZGoZvsg6cH3Uaf5jx2KS6" group-title="UNITED KINGDOM",|UK  | Sky Cinema Disney HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30983.ts
+#EXTINF:-1 tvg-id="SkyDrama.uk" tvg-name="|UK  | Sky Cinema Drama & Romance HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu6O3cu6Nanf8pnbGXAcTs8wUpI5u7TWvmJC0_LR5RFmfldo6y6v1fo4Y" group-title="UNITED KINGDOM",|UK  | Sky Cinema Drama & Romance HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30982.ts
+#EXTINF:-1 tvg-id="SkyFamily.uk" tvg-name="|UK  | Sky Cinema Family HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMbJgqqDrWaLlfjtTsjSKa6tQNXs3tjIyBgPCBw8K8W4lHw2A_HCM1TeA" group-title="UNITED KINGDOM",|UK  | Sky Cinema Family HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30981.ts
+#EXTINF:-1 tvg-id="SkyHits.uk" tvg-name="|UK  | Sky Cinema Hits" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuELnQmuewGsnmjaNwS2RhXhVu1y1RRlP1AAV22I6FMSj3fvRAVWaTaQzv" group-title="UNITED KINGDOM",|UK  | Sky Cinema Hits
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30872.ts
+#EXTINF:-1 tvg-id="SkyPremiere.uk" tvg-name="|UK  | Sky Cinema Premier HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6cvTDPT_E3biSr6ag3MY9da-fynkRFCIv1QSIRH9f9z7w5cfr3B9GYFc" group-title="UNITED KINGDOM",|UK  | Sky Cinema Premier HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30980.ts
+#EXTINF:-1 tvg-id="SkySciFiHorror.uk" tvg-name="|UK  | Sky Cinema Sci-Fi & Horror HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQboTWDyyEuGb6qdFTJ0voVd-NuMD683PW7qFktnnGuzCATJzx4kbQX3cU" group-title="UNITED KINGDOM",|UK  | Sky Cinema Sci-Fi & Horror HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30979.ts
+#EXTINF:-1 tvg-id="SkySelect.uk" tvg-name="|UK  | Sky Cinema Select HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCoyTrv4w5VhuaDUTUdPhp-MA59tpp4k6Few38J7IYJmDr0isWGDVqmdG3" group-title="UNITED KINGDOM",|UK  | Sky Cinema Select HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30978.ts
+#EXTINF:-1 tvg-id="SkySciFiHorror.uk" tvg-name="|UK  | Sky Movie Sci-Fi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2MjoLkv-B_UjyWGo96cdBFF5xMnH6oG5MVleccTm_ziUhzhDCS925u9c" group-title="UNITED KINGDOM",|UK  | Sky Movie Sci-Fi
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30931.ts
+#EXTINF:-1 tvg-id="SkyAction.uk" tvg-name="|UK  | Sky Movies Action" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ23ZiPwnEa1ognwiv7iTZAYTu6pKZ7bh2iv6mqK7uqlXuTqUwcZz1KBMI" group-title="UNITED KINGDOM",|UK  | Sky Movies Action
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30932.ts
+#EXTINF:-1 tvg-id="SkyComedy.uk" tvg-name="|UK  | Sky Movies Comedy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8SvhQnKqSysJsPbs-sVuLgXQVQfwQw1NtBjy122T7uifhjYsA9bibdQ" group-title="UNITED KINGDOM",|UK  | Sky Movies Comedy
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30933.ts
+#EXTINF:-1 tvg-id="SkyDisney.uk" tvg-name="|UK  | Sky Movies Disney" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZXI9P4kkIl0YVtpMDylPfXAkTHIqbi1T29LoeWsxDWlafEa5k3s2RPgxT" group-title="UNITED KINGDOM",|UK  | Sky Movies Disney
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30934.ts
+#EXTINF:-1 tvg-id="SkyDrama.uk" tvg-name="|UK  | Sky Movies Drama" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu6O3cu6Nanf8pnbGXAcTs8wUpI5u7TWvmJC0_LR5RFmfldo6y6v1fo4Y" group-title="UNITED KINGDOM",|UK  | Sky Movies Drama
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30964.ts
+#EXTINF:-1 tvg-id="SkyFamily.uk" tvg-name="|UK  | Sky Movies Family" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx2694TxFL-Pna3ybcEwtsNqCDv4Y6UMCy74G8wb9gb9XWnk0OOvo8Gd0" group-title="UNITED KINGDOM",|UK  | Sky Movies Family
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30935.ts
+#EXTINF:-1 tvg-id="SkyGreats.uk" tvg-name="|UK  | Sky Movies Greats" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnfi_VvEiPhAF-ZqUcBA3UnR-uXC3GrndGqH0PSKRBkuCUClckNXjHE20" group-title="UNITED KINGDOM",|UK  | Sky Movies Greats
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30936.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK  | Sky Movies Modern" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm1XQlv-gpi2RjexVI97K6FC6cO2Lh-3QgoPLE393SZiiU0NbAB9ato-4k" group-title="UNITED KINGDOM",|UK  | Sky Movies Modern
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31104.ts
+#EXTINF:-1 tvg-id="SkyPremiere.uk" tvg-name="|UK  | Sky Movies Premiere" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67ga2yhDK9TTp0-7smkPCJ7yVZVZafHsVLp_UipKPJ4t2olNqdW3oFw" group-title="UNITED KINGDOM",|UK  | Sky Movies Premiere
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30937.ts
+#EXTINF:-1 tvg-id="SkySelect.uk" tvg-name="|UK  | Sky Movies Select HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPPG9VlCAaxbBwBUomjNVJsmA8i9PmFnySNJGLqhEUejY5hgDTB8p41A" group-title="UNITED KINGDOM",|UK  | Sky Movies Select HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31083.ts
+#EXTINF:-1 tvg-id="Showcase.uk" tvg-name="|UK  | Sky Movies Showcase" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCpsKeIB0bWTMEGL0o2EyKAGvrcbj9VcPVwjkAAhAhk7YMhGTBHX2sztY" group-title="UNITED KINGDOM",|UK  | Sky Movies Showcase
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30938.ts
+#EXTINF:-1 tvg-id="SkyCrimeThriller.uk" tvg-name="|UK  | Sky Movies Thriller" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThVYvc-UtruJEQ5UyXQbLnmSZr5jzSpcCS2VwymHvdgmE9Vsk17Od8NA" group-title="UNITED KINGDOM",|UK  | Sky Movies Thriller
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30939.ts
+#EXTINF:-1 tvg-id="Syfy.uk" tvg-name="|UK  | Syfy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwL8bxh7ZonJc_sNr-U5IP4kGi7BPQyK_T7kWChUWV4YYjsOeZq3hV8v8z" group-title="UNITED KINGDOM",|UK  | Syfy
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30946.ts
+#EXTINF:-1 tvg-id="Syfy.uk" tvg-name="|UK  | Syfy   1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTnQFQgKQYR5OowWxgTthGtfafZjnkdhaHx6yKrZaSeQkMu0T1tQ_jairI" group-title="UNITED KINGDOM",|UK  | Syfy   1
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31092.ts
+#EXTINF:-1 tvg-id="StarzTV.uk" tvg-name="|UK  | Starz TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1f754JYyACiLBgt76P1zj1J3tw48BpI3gadinZKUKvmCYbLKzMVE2P1Y" group-title="UNITED KINGDOM",|UK  | Starz TV
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30852.ts
+#EXTINF:-1 tvg-id="Film4.uk" tvg-name="|UK  | Film 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv1dYG1FXL9BKsGjSfxcrFpuK0iJWxRIJRtBkMxoOcPl5Pe9fQhkyy3V_BIg" group-title="UNITED KINGDOM",|UK  | Film 4
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30922.ts
+#EXTINF:-1 tvg-id="SonyEntertainmentTV.uk" tvg-name="|UK  | Sony Chnl   1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnO23VzAAlFXpKWwCK2MniOMdg_iMKdofysEnqTjEHKi9ZM1KjNwNqVQ" group-title="UNITED KINGDOM",|UK  | Sony Chnl   1
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31091.ts
+#EXTINF:-1 tvg-id="SonyMovies.uk" tvg-name="|UK  | Sony Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0ivIIot2vN6t_DYnyoZS3prxG2aSK_2IFgkzQLPjb3jkHvkG6HNEhzYg" group-title="UNITED KINGDOM",|UK  | Sony Movie
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31007.ts
+#EXTINF:-1 tvg-id="SkySportsBoxOffice.uk" tvg-name="|UK  | SkySpBoxOff (PPV Events Only)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7-ajHXqYEjfDb9cEOvGDev039l3e3KVrMM39c_ZWFV41u2Qc9l-oTzPd2" group-title="UNITED KINGDOM",|UK  | SkySpBoxOff (PPV Events Only)
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31090.ts
+#EXTINF:-1 tvg-id="TrueMovies.uk" tvg-name="|UK  | True Movies 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT92XGAEaVt6mT-lfWSSFLJ9qEpHr5DPwRTWl3ch7ACiNQ0wE_VUw2vFr3P" group-title="UNITED KINGDOM",|UK  | True Movies 1
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31106.ts
+#EXTINF:-1 tvg-id="TrueMovies.uk" tvg-name="|UK  | True Movies 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXdbfbX-25UcAuVwVxYLZi8RouA21aAsXl-nVL-S4NtZcjlQ04jVfqRg" group-title="UNITED KINGDOM",|UK  | True Movies 2
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31097.ts
+#EXTINF:-1 tvg-id="Movies4Men.uk" tvg-name="|UK  | Movies 4 Men" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUgDnNho3jG_ZlHejNaIfoPVCIPbMXCZuy3P759wLQALHuWt-xn4hAOts" group-title="UNITED KINGDOM",|UK  | Movies 4 Men
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31010.ts
+#EXTINF:-1 tvg-id="RealLives.uk" tvg-name="|UK  | Real Lives" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx-ftKaW8LC-VvD2WklUkrrAUrk52nrWbCfx9Te4PT9LuKarzpdZBTED0" group-title="UNITED KINGDOM",|UK  | Real Lives
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31008.ts
+#EXTINF:-1 tvg-id="HomeandHealth.uk" tvg-name="|UK  | Home & Health" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIe2Gs0wZ9EWDFe8uRtpJkQRAKwX3a1vSP8SvSKYtyMenGlBjW7XGUrgJs" group-title="UNITED KINGDOM",|UK  | Home & Health
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30925.ts
+#EXTINF:-1 tvg-id="HomeandHealth.uk" tvg-name="|UK  | Home&Health   1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9v5NVa3711YvFrgItIP-DVBUGU5eFT6sxCw95tnuU7GoHLdlNI04ZJWo" group-title="UNITED KINGDOM",|UK  | Home&Health   1
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31063.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK  | BOX OFFICE HD 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuqgDP7C695-KUknTkSLaASFjR9iAWFwtjMiJZHgJ5U5fkIPj1ZaAxjPs" group-title="UNITED KINGDOM",|UK  | BOX OFFICE HD 1
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30869.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK  | BOX OFFICE HD 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgNT0BYg7pDhtXLuYUXVQaWDKsJ7K9ldLDxtkJOzgHB5Ml7QUyT4OWwTk" group-title="UNITED KINGDOM",|UK  | BOX OFFICE HD 2
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30868.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK  | BOX OFFICE HD 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST1EZ186ZY39jgJchqPTXCtwxJhJA1FbycBygVSmFWPTxPxsdb-3R0QL8" group-title="UNITED KINGDOM",|UK  | BOX OFFICE HD 3
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30867.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK  | BOX OFFICE HD 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA0ntJHI38SXkU5M5ksqDFAJkJhu3yjKdfpD9KsaZ4cGCiyv2yezus5Q" group-title="UNITED KINGDOM",|UK  | BOX OFFICE HD 4
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30866.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK  | ***** UK KIDS *****" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPvpo6Ckgh6BCm_IZCWZ76cQp--1MrpoCsnG5gIlkQzZIpSUKp91HG0Q" group-title="UNITED KINGDOM",|UK  | ***** UK KIDS *****
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31407.ts
+#EXTINF:-1 tvg-id="DisneyChannel.uk" tvg-name="|UK  | Disney" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSY1awCOXnWtHLvpdM5Dyrl0bYupZXN9Y8Ae70FUgGHzDxeN5H2rXZAnM" group-title="UNITED KINGDOM",|UK  | Disney
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30916.ts
+#EXTINF:-1 tvg-id="DisneyChannel.uk" tvg-name="|UK  | Disney Channel   1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo8XO2svSUUBNt0qoNKkrfRswA7ty9Y4ExB5z4KRBv9YAJR5-jHj3XzQJj" group-title="UNITED KINGDOM",|UK  | Disney Channel   1
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31051.ts
+#EXTINF:-1 tvg-id="DisneyJunior.uk" tvg-name="|UK  | Disney Junior" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ7HcibImYcaQUUDQhYXI89Y9uagEZSVA6Lk_N4RP_4L14TAgYnL8Yvz4j" group-title="UNITED KINGDOM",|UK  | Disney Junior
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30917.ts
+#EXTINF:-1 tvg-id="DisneyXD.uk" tvg-name="|UK  | Disney XD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLcw-_nKgmdpeijy-ngAQrq8YOylXJ2woKrDanIPfxZZ3l2lAiFuVBEqiw" group-title="UNITED KINGDOM",|UK  | Disney XD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30918.ts
+#EXTINF:-1 tvg-id="DisneyXD.uk" tvg-name="|UK  | Disney XD   1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWU8SX2-dwgjijnU9iZ2GZ8HOS4nc3mv3tn2__M8kAAR5E-Isy6JjKVw" group-title="UNITED KINGDOM",|UK  | Disney XD   1
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31052.ts
+#EXTINF:-1 tvg-id="NickJunior.uk" tvg-name="|UK  | Nick Jr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU1U71xvbMXmzEPG6XFcUxHuV0pzX7NQizkdcN6eIivRI0PrX99onIOCM" group-title="UNITED KINGDOM",|UK  | Nick Jr
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30929.ts
+#EXTINF:-1 tvg-id="NickJunior.uk" tvg-name="|UK  | Nick Jr  1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS5ZGjn5NEEsPQ0PQU7NQjagJ6CBsNrSs37VvxctR4q0Iu2ODGJ03WZ6I" group-title="UNITED KINGDOM",|UK  | Nick Jr  1
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31074.ts
+#EXTINF:-1 tvg-id="NickJrToo.uk" tvg-name="|UK  | Nick Jr Too" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0ht0FX9fKUhouytpxtfzC0Cftx2Z4c3NC_JRB771cQgDsh5c23iRExtc" group-title="UNITED KINGDOM",|UK  | Nick Jr Too
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31073.ts
+#EXTINF:-1 tvg-id="Nickelodeon.uk" tvg-name="|UK  | Nickelodeon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlxSF9f262gFpyoDINSGLIHLCHaS44YCy1D871g3yQj3SXcniyEuxOGhg" group-title="UNITED KINGDOM",|UK  | Nickelodeon
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31075.ts
+#EXTINF:-1 tvg-id="Nickelodeon.uk" tvg-name="|UK  | Nickelodeon   1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYR_oHQ0oOsaC203eZHrY_NbLs1KLKIU4ru60Wcz96DpOx0LXTIKKKYQiq" group-title="UNITED KINGDOM",|UK  | Nickelodeon   1
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31076.ts
+#EXTINF:-1 tvg-id="Nicktoons.uk" tvg-name="|UK  | Nicktoons" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQni1BoGVaAwPxAa7LrXRgJAhuE1VFisyQ3uiAV27Oj4mosF9BEkLfulWY" group-title="UNITED KINGDOM",|UK  | Nicktoons
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30930.ts
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="|UK  | Baby TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBkPKpms0pdn6gk7dkMxfLOUg7yFvgEiWxCKvBDfaMLroyUlBKVCBARK4" group-title="UNITED KINGDOM",|UK  | Baby TV
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30897.ts
+#EXTINF:-1 tvg-id="Boomerang.uk" tvg-name="|UK  | Boomerang" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCXghCs7kgnovRrJbaVb7W17mVz710IOdY4eQ0mue6GH6BsoKcvUnIECM" group-title="UNITED KINGDOM",|UK  | Boomerang
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30902.ts
+#EXTINF:-1 tvg-id="Tinypop.uk" tvg-name="|UK  | Tiny POP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyWadTkH5CWUzqLoak3XcOloenIzAqgo1SQfbcTEst9AR8UadQEugZ9JE" group-title="UNITED KINGDOM",|UK  | Tiny POP
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30947.ts
+#EXTINF:-1 tvg-id="Tinypop.uk" tvg-name="|UK  | Tiny Pop   1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwWxVj7wPE_znyTIYX4RY8yoQ23aLoXCUl3-_D0hTwbBp3iGvTLSwjozr2" group-title="UNITED KINGDOM",|UK  | Tiny Pop   1
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31093.ts
+#EXTINF:-1 tvg-id="CartoonNetwork.uk" tvg-name="|UK  | Cartoon Network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXnua9FvrmRxnpGbBliiDQkuYtPqjTw-pNm2_zVezmo0wobfZOujYdJ_C9" group-title="UNITED KINGDOM",|UK  | Cartoon Network
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31045.ts
+#EXTINF:-1 tvg-id="Cartoonito.uk" tvg-name="|UK  | Cartoonito" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQni1BoGVaAwPxAa7LrXRgJAhuE1VFisyQ3uiAV27Oj4mosF9BEkLfulWY" group-title="UNITED KINGDOM",|UK  | Cartoonito
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30987.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK  | ***** UK CULTURE *****" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwZo3VVA-2gMOrhNCUGEU-BqUotVcfu6jul0CwESxAhRXXfrnPWng8OQ77" group-title="UNITED KINGDOM",|UK  | ***** UK CULTURE *****
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31405.ts
+#EXTINF:-1 tvg-id="NatGeo.uk" tvg-name="|UK  | Nat Geo Graphic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8nq839Xd3tkVsvKWH6a--2bpUQXWL2hIcLC_pT5M6aA2mvO6V8fD6eg" group-title="UNITED KINGDOM",|UK  | Nat Geo Graphic
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30961.ts
+#EXTINF:-1 tvg-id="NatGeoWild.uk" tvg-name="|UK  | Nat Geo Wild" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfY3iUh7vw3Up6mUjf-x1cNhvPIN_0Yiy3bE2GguHNjOJxH3Oz7-uXmbE" group-title="UNITED KINGDOM",|UK  | Nat Geo Wild
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31072.ts
+#EXTINF:-1 tvg-id="NatGeoWild.uk" tvg-name="|UK  | NATGEO WILD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0zYv3svAtsEzumlkGaTbgQR3RbH-lBBBDD_7Rpj5w9w44ziAJfeyiltL2" group-title="UNITED KINGDOM",|UK  | NATGEO WILD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30970.ts
+#EXTINF:-1 tvg-id="NatGeo.uk" tvg-name="|UK  | National Geographic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS08j-2TBU7QpF6JZKgmHF3MrYAbS51TabjC8zjsUQxDfW1cjdq6Fx_wSjxdw" group-title="UNITED KINGDOM",|UK  | National Geographic
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30972.ts
+#EXTINF:-1 tvg-id="AnimalPlanet.uk" tvg-name="|UK  | Animal Planet" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyE6mjr7-TH5lz3ommrKQxysJBDgg-ZbyoGGuGgopll0iklAfBEwVaCHWh" group-title="UNITED KINGDOM",|UK  | Animal Planet
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30949.ts
+#EXTINF:-1 tvg-id="AnimalPlanet.uk" tvg-name="|UK  | Animal Planet   1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGsFJ8zdSFhHUfkRHYakQh9RVLlcBurSwQ4aIpHVa-gYNt6i8Sd30C058" group-title="UNITED KINGDOM",|UK  | Animal Planet   1
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31032.ts
+#EXTINF:-1 tvg-id="DiscoveryChannel.uk" tvg-name="|UK  | DISCOVERY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs1gPvftBznE9RWlfn5v6cisywcsgeErcxt6FChvSgpUWkYDG-bYWMnMc" group-title="UNITED KINGDOM",|UK  | DISCOVERY
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30911.ts
+#EXTINF:-1 tvg-id="DiscoveryHistory.uk" tvg-name="|UK  | Discovery History" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjrOOuM-vcjZ_uElqKRfffmaNLbm--qg_dEzaWNtg9fwezAHAN6TUmTf2b" group-title="UNITED KINGDOM",|UK  | Discovery History
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30912.ts
+#EXTINF:-1 tvg-id="DiscoveryHistory.uk" tvg-name="|UK  | Discovery History  1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF8gQ9xQVNAF_MYdgkOzqPqfEmfjxsSsyq9hHKDNeahl9w3-Zh-UuVC1A" group-title="UNITED KINGDOM",|UK  | Discovery History  1
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31049.ts
+#EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-name="|UK  | Discovery Science" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9YYGipJ6ZUPDuvsrfEKP4eAHXQMwUXr0eiXE9l_a38Pzibx-ttHuG8DY" group-title="UNITED KINGDOM",|UK  | Discovery Science
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30913.ts
+#EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-name="|UK  | Discovery Science  1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiGJAiowQwmELZFSRIL4pg_fV6tp8QvOfLupNEtS8o1NYv9AT8a-4pDw" group-title="UNITED KINGDOM",|UK  | Discovery Science  1
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31050.ts
+#EXTINF:-1 tvg-id="DiscoveryShed.uk" tvg-name="|UK  | Discovery Shed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU2E-9Ocl7p5n0fzWG5_ORLR367MPCNRLaqU30XvG2C8UfAEQK84xgSA" group-title="UNITED KINGDOM",|UK  | Discovery Shed
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30914.ts
+#EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="|UK  | Discovery Turbo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2iVCobcL0PTnEruAZ3PQ3M8Gkb7uQLZbya51RC87wSMyAmsJGlu5vG8c" group-title="UNITED KINGDOM",|UK  | Discovery Turbo
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30915.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK  | DMax" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIIYjLFg2Gw2vPnDEXhdwZvpVqpTBmgIiTO-TCxj6tPSIk-IFGMVrs1GA" group-title="UNITED KINGDOM",|UK  | DMax
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30919.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK  | ID" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7dy4CnF2gi1qU-fSMvts6gSnnvwOlGSIfJTdIxJX9pVsLfh1mSQR1Yr3G4g" group-title="UNITED KINGDOM",|UK  | ID
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31028.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK  | ID   1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNxc9HGAgu1oOro5HO_wT1crEq2nFIDC6r9P1LEeYz9auqI-ddKnx-oxas" group-title="UNITED KINGDOM",|UK  | ID   1
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31064.ts
+#EXTINF:-1 tvg-id="TravelChannel.uk" tvg-name="|UK  | Travel Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwRwwnObWCR9chEerafteDA-pLoMdOM1Kq-A87z0Vdt2cQbX4UHSJfp2I" group-title="UNITED KINGDOM",|UK  | Travel Channel
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31096.ts
+#EXTINF:-1 tvg-id="HistoryChannel.uk" tvg-name="|UK  | History" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQni1BoGVaAwPxAa7LrXRgJAhuE1VFisyQ3uiAV27Oj4mosF9BEkLfulWY" group-title="UNITED KINGDOM",|UK  | History
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30976.ts
+#EXTINF:-1 tvg-id="HistoryChannel.uk" tvg-name="|UK  | History  1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwtvy7UcrBaMRrD79dCYG5zgEkcf-9e-yElM-uspNjgbRy1yJH6JcHjr8" group-title="UNITED KINGDOM",|UK  | History  1
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31062.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK  | ***** UK NEWS *****" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlBHL4Kni0RUHaAFdy9FDjjmadyMhkda13IyEby6AzSgTW_T6ANe-b06ei" group-title="UNITED KINGDOM",|UK  | ***** UK NEWS *****
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31404.ts
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="|UK  | BBC News HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP7jmeijsI9Tu5ZRG-l_2niRb-AU3syhlPE347-7GmwJ45zTjg7_Ioh8M" group-title="UNITED KINGDOM",|UK  | BBC News HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30856.ts
+#EXTINF:-1 tvg-id="BBCParliament.uk" tvg-name="|UK  | BBC Parliament" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFHohmxx00UHLLz4p4xKKCDCSnI7dR-G_wuiKJw8TdLCA5B0PUa8zy5Dw7" group-title="UNITED KINGDOM",|UK  | BBC Parliament
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31020.ts
+#EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-name="|UK  | BBC World News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFZ10kTL6ryud80dpafDlkTB69-0e28UemxGlNjCYwAJEwWYc86JfJBNn0" group-title="UNITED KINGDOM",|UK  | BBC World News
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31101.ts
+#EXTINF:-1 tvg-id="FOX.uk" tvg-name="|UK  | FOX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtWcsvUZaQvFetSQCxUcA2GmXcKdnA9q0dYQTuC5StiqCyhL4p6qgjKm8" group-title="UNITED KINGDOM",|UK  | FOX
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30955.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK  | HBO 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSExlpYEL0_hVUv6yyquuzVpQCnOpZlF1il3Qu4GtEFGabyziGjihMznblS" group-title="UNITED KINGDOM",|UK  | HBO 1
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31102.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP |UK  | HBO HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKJmYsm5aeivRZrYzQ-iJjb33tRDbBpXD-ExIkfiyEu-seaFgRTvR2fWt1" group-title="UNITED KINGDOM",VIP |UK  | HBO HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31003.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK  | HBO 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrjDdi15fLJyC6K8kCN0ehQARGQfgq5AAaVZQZ2UTbtgfsJ7mxRsLd64U" group-title="UNITED KINGDOM",|UK  | HBO 2
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31103.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK  | RT NEW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuaUvDzFUchgXNUbbhZqvvN1gKT-mGHd3KuYw0WzBHxk_o4F967RRKXAou" group-title="UNITED KINGDOM",|UK  | RT NEW
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30855.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK  | RTE News Now" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWhkRhXrn7gdjivcIzJAK2S_oG7_Q0XGU9oPK7iq9LYO_0_H5PYSepN1Cd9g" group-title="UNITED KINGDOM",|UK  | RTE News Now
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30874.ts
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="|UK  | SKY NEWS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIph1m4o5NvCqcooKVUh0hZFMcLO4Am8AxNQ3iPJZ9bWu3r48phHMBJGA" group-title="UNITED KINGDOM",|UK  | SKY NEWS HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31004.ts
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="|UK  | Sky Sport News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS60g2wXKJVruTqtDgvxtZ4JCKJriE_7uJ5gQQnJ9wpAS8eQj2nwYvVRw" group-title="UNITED KINGDOM",|UK  | Sky Sport News
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30944.ts
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="VIP |UK  | SKY NEWS 1080P HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQfP7rQWp44YWxys9TMIH2gUrFvByAlQHBOXQkr4WlzeTN0Z9185hfCw" group-title="UNITED KINGDOM",VIP |UK  | SKY NEWS 1080P HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30988.ts
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="VIP |UK  | Sky Sports News HD 1080p" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl1xR2gccco8oEO2mT3R-7aOSDUVPGJvnY0AbQ-Hb5kSO9u9IovOQcX4KS" group-title="UNITED KINGDOM",VIP |UK  | Sky Sports News HD 1080p
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30993.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK  | ***** UK MUSIC *****" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOOR7WFK4aw9gqrMn-Im0zQyn1orr-GqvhJJ2ByBQ80-KvF89Ph053X_x25Q" group-title="UNITED KINGDOM",|UK  | ***** UK MUSIC *****
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31410.ts
+#EXTINF:-1 tvg-id="4Music.uk" tvg-name="|UK  | 4Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR6pQG08qyNNx1QvR7oAftBXJwDzSSZBjey0wGqOF3SpVrK9xTEGGQhfPZRw" group-title="UNITED KINGDOM",|UK  | 4Music
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30859.ts
+#EXTINF:-1 tvg-id="MTV.uk" tvg-name="|UK  | MTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIUHEYzoSkbqkuF2oM_PMasm7juORhHEDyby21AabLhfzF2C8Vl49vD4g" group-title="UNITED KINGDOM",|UK  | MTV
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30975.ts
+#EXTINF:-1 tvg-id="MTV.uk" tvg-name="|UK  | MTV   1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoiTgSl9mzT7FCavz4AuGXuNT_NfIo9XWwjxfVVRagH6Mk5JeseX9floo" group-title="UNITED KINGDOM",|UK  | MTV   1
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31070.ts
+#EXTINF:-1 tvg-id="MTVBase.uk" tvg-name="|UK  | MTV Base HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4TJX6uUs9aQWcU1r-ND6NnasM7oqBJxN0rjvJRij-wz7noHGwzkZLvQ" group-title="UNITED KINGDOM",|UK  | MTV Base HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30860.ts
+#EXTINF:-1 tvg-id="MTVMusic.uk" tvg-name="|UK  | MTV Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhv3xq9wGOo3bbc6qmFGlll2na3SNzmz8YaKssqNKhgaVJ73LuZStooQ" group-title="UNITED KINGDOM",|UK  | MTV Music
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31108.ts
+#EXTINF:-1 tvg-id="MTVRocks.uk" tvg-name="|UK  | MTV Rocks" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyFn_9c3j6Q5HqIIXN9WWVji5fYg8zs7vFkeqs6YR4PBnppMsSNOti8bgh" group-title="UNITED KINGDOM",|UK  | MTV Rocks
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31109.ts
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-name="|UK  | MUTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQni1BoGVaAwPxAa7LrXRgJAhuE1VFisyQ3uiAV27Oj4mosF9BEkLfulWY" group-title="UNITED KINGDOM",|UK  | MUTV
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31071.ts
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-name="|UK  | MUTV Backup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZAA9hi5xwnay9A_yiidV9NHbEAqa-UQac6swam7LOFXUGMEPQFNTNFOg" group-title="UNITED KINGDOM",|UK  | MUTV Backup
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30892.ts
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-name="|UK  | MUTV FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWjmy6LOIphdmhbAElU2C0tBX4Lg8AwEirmEQfcAemKzVKOQ-vEGDkHQ" group-title="UNITED KINGDOM",|UK  | MUTV FHD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30882.ts
+#EXTINF:-1 tvg-id="VH1.uk" tvg-name="|UK  | VH1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh1tpfGKYsRkXLo4JWU2icSzaNUPRYswNAyq4PLnk7lkglgeYBxVWtjnXP" group-title="UNITED KINGDOM",|UK  | VH1
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31099.ts
+#EXTINF:-1 tvg-id="Viva.uk" tvg-name="|UK  | VIVA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuTj3rSFzx3A66TQ4X4qIo7YOHxMcb8bBcePATOuAhVwxWgom0pxO5FJ0" group-title="UNITED KINGDOM",|UK  | VIVA
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30969.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP |UK  | MTV LIVE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKdv2oCkAdFq_PI_zM9Esxvb77uq5rk-T-6ycgcOiP4AKl4Yxkmr4Ba3cDtg" group-title="UNITED KINGDOM",VIP |UK  | MTV LIVE HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31002.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK  | ***** UK ENTERTAINMENT *****" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv_28dRx2hnmz4aHd-v44rcQ20sSP8CNjWoNLnUmophz_J73faRT-Y6DM" group-title="UNITED KINGDOM",|UK  | ***** UK ENTERTAINMENT *****
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31406.ts
+#EXTINF:-1 tvg-id="GoodFood.uk" tvg-name="|UK  |  Good Food" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCZFDCejvcWK3IuvG-IYvtPuDauyWFVcV_4TFACmvecrnKFmJ9JG9cemRV" group-title="UNITED KINGDOM",|UK  |  Good Food
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30924.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK  | 3e" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQni1BoGVaAwPxAa7LrXRgJAhuE1VFisyQ3uiAV27Oj4mosF9BEkLfulWY" group-title="UNITED KINGDOM",|UK  | 3e
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31029.ts
+#EXTINF:-1 tvg-id="4Seven.uk" tvg-name="|UK  | 4Seven" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBlzKMEd3H1c6ezp1bRjRq22S9hbNvvmS_ragGm9wsfKylnollFp8gNPs" group-title="UNITED KINGDOM",|UK  | 4Seven
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31100.ts
+#EXTINF:-1 tvg-id="Alibi.uk" tvg-name="|UK  | Alibi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRku9WPtSkXI4q3cXhni3lcOlx9BG1M7D_2VaS4y3UczAISO3hxZFqbwledeA" group-title="UNITED KINGDOM",|UK  | Alibi
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31031.ts
+#EXTINF:-1 tvg-id="AMC.uk" tvg-name="|UK  | Amc" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8DjcE3LOFWxhjSOkMi9iHD7___VphbkUKmFmJCBSWJRa7L3_8W9mnW-k" group-title="UNITED KINGDOM",|UK  | Amc
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30864.ts
+#EXTINF:-1 tvg-id="BBCAlba.uk" tvg-name="|UK  | BBC ALBA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSERNZ-UDMdedfQrEpHyqdqs9_9sk0BnZRvrsX7rvgnL4K8zKG7_hg0kq4" group-title="UNITED KINGDOM",|UK  | BBC ALBA
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31021.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK  | BBC EARTH HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHBdo6h1fsU99GdFYemVtF0SzQ67M2crhUmu_7nzYslKcGJwryJVJDfWc" group-title="UNITED KINGDOM",|UK  | BBC EARTH HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31107.ts
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="|UK  | BBC ONE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZjGYRVZfRZ-3ON90RmdSbZzJv2epboF9sDcYSF5fclYK9lUa9zSF8lEc" group-title="UNITED KINGDOM",|UK  | BBC ONE HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30898.ts
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="|UK  | BBC ONE SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdqZkuHhByluNO9vGGI8U7-4wjjJHRSv_1zPDZH0q_2M8NNz7IpQDRSgg" group-title="UNITED KINGDOM",|UK  | BBC ONE SD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30870.ts
+#EXTINF:-1 tvg-id="BBC2.uk" tvg-name="|UK  | BBC TWO HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuZiZr692sSbv35MP3ezKIcI6p_vC0VTwKbusEi0IfF6PUiE2YYwexBfR3" group-title="UNITED KINGDOM",|UK  | BBC TWO HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31034.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK  | BBC Three HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXd_l-Z7PG5U17C7s_7aE0tty-2GBce48F0uGibBuznBoJ2g7lGQFgWNQ" group-title="UNITED KINGDOM",|UK  | BBC Three HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30899.ts
+#EXTINF:-1 tvg-id="BBCRedButton3.uk" tvg-name="|UK  | BBC 3 FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeFqyZB-8Qcy1AxqmoFb80AUE1p2b6yoaP6bU1LBv6A85y48t8fqCYyvU" group-title="UNITED KINGDOM",|UK  | BBC 3 FHD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30884.ts
+#EXTINF:-1 tvg-id="BBC4.uk" tvg-name="|UK  | BBC4 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdanZERT7uxdU_8-W9K1S9geUNrkNmTDx_7bH2lWP_hFShF_01piTea5c" group-title="UNITED KINGDOM",|UK  | BBC4 HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31035.ts
+#EXTINF:-1 tvg-id="BET.uk" tvg-name="|UK  | BET" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQni1BoGVaAwPxAa7LrXRgJAhuE1VFisyQ3uiAV27Oj4mosF9BEkLfulWY" group-title="UNITED KINGDOM",|UK  | BET
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31019.ts
+#EXTINF:-1 tvg-id="CapitalTV.uk" tvg-name="|UK  | Capital TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ7F4mLFKEkaET6ht1Fo9ym-V3Gdf8U0PJbD9lFlEm43KyBUH3I4iJQEHf" group-title="UNITED KINGDOM",|UK  | Capital TV
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30889.ts
+#EXTINF:-1 tvg-id="CBBC.uk" tvg-name="|UK  | CBBC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXueqaYxA38fd43EirBIRmFIO-dRWD_Y57enMmC1IreIhk_Gqigs48os4" group-title="UNITED KINGDOM",|UK  | CBBC
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30900.ts
+#EXTINF:-1 tvg-id="CBeebies.uk" tvg-name="|UK  | Cbeebies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ3qndePoN-Jox6FjaxmvTfosMlOqkCAeLR817VfNvd7ePIs0TOykwrqvn" group-title="UNITED KINGDOM",|UK  | Cbeebies
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30977.ts
+#EXTINF:-1 tvg-id="CBSAction.uk" tvg-name="|UK  | CBS Action" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqVOA3WMZPasjF87cTyxQWKNolUuwYEQzTz78VgiZjiZ_8ThCKM6rxhR-7" group-title="UNITED KINGDOM",|UK  | CBS Action
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30908.ts
+#EXTINF:-1 tvg-id="CBSDrama.uk" tvg-name="|UK  | CBS Drama" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1xStitHunAcbhA2wKTc80Grnx1OyF408Cr4_d98g-FGKreV-MegWye9b-" group-title="UNITED KINGDOM",|UK  | CBS Drama
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30909.ts
+#EXTINF:-1 tvg-id="CBSReality.uk" tvg-name="|UK  | CBS reality" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdqsYjO36K0_-hJziNV6dm-YqVZKtEnM75oYQTSEkgq9j8SJ_pNEmWsUI" group-title="UNITED KINGDOM",|UK  | CBS reality
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30910.ts
+#EXTINF:-1 tvg-id="Challenge.uk" tvg-name="|UK  | Challenge   1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eTBheHZBDu3QGXeEysuQXaGns4_ou_yvifI9n9zV8oxiioSce46ksxdQ" group-title="UNITED KINGDOM",|UK  | Challenge   1
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31046.ts
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="|UK  | Channel 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT--OuRdTpIVCwRfd8dv27igk_02wsB-RcVCv9XYT7mIQOCAe-8cBKWyzE" group-title="UNITED KINGDOM",|UK  | Channel 4
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31018.ts
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="|UK  | Channel 4 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWaM-eXF1OPIpGYD_Zid4JUb4YbOtvsdxX3NvK-oiwPcdnmsf3K437v0XA" group-title="UNITED KINGDOM",|UK  | Channel 4 HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31017.ts
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="|UK  | CHANNEL 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfWS0g2U7E4eTJyP_Gy_krWGGHEOIhGqG6BEUm11c0pXkXOuThNn6Tvrg" group-title="UNITED KINGDOM",|UK  | CHANNEL 5
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31016.ts
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="|UK  | CHANNEL 5 FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiri1BRLxwVl5ydw7xYdUPg07vjWg1884hn71gP9fcOrN1gyR7UZ1j5JaF" group-title="UNITED KINGDOM",|UK  | CHANNEL 5 FHD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31015.ts
+#EXTINF:-1 tvg-id="ChannelAka.uk" tvg-name="|UK  | Channel AKA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDEzAnNh6gIVoSFRqf7ZxLIVAz-b0K58KL2UU9D2y5fCa8BP4bYqBNgA" group-title="UNITED KINGDOM",|UK  | Channel AKA
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30861.ts
+#EXTINF:-1 tvg-id="CITV.uk" tvg-name="|UK  | Citv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiGP4js9P1GyMYEOfK28-_8wU_gcFQaaCp6cLxWWWsJD_ptW2t8-kB_GU" group-title="UNITED KINGDOM",|UK  | Citv
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30895.ts
+#EXTINF:-1 tvg-id="CNBC.uk" tvg-name="|UK  | CNBC Europe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhVPoUwySf2cjRRCY4GrIqN2rpml7fKTIHV0tFtwsq9fgfr2afZ4HgNwI" group-title="UNITED KINGDOM",|UK  | CNBC Europe
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31014.ts
+#EXTINF:-1 tvg-id="CNN.uk" tvg-name="|UK  | CNN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGDRIkoXC0zBTdU_DCSP3XXKW4zOz9386xRPMuILBoUiXY0-5expuWJcc_" group-title="UNITED KINGDOM",|UK  | CNN
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30951.ts
+#EXTINF:-1 tvg-id="CNN.uk" tvg-name="|UK  | CNN FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWjmy6LOIphdmhbAElU2C0tBX4Lg8AwEirmEQfcAemKzVKOQ-vEGDkHQ" group-title="UNITED KINGDOM",|UK  | CNN FHD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30888.ts
+#EXTINF:-1 tvg-id="ComedyCentral.uk" tvg-name="|UK  | Comedy Central" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl0qU3-zMrK3RLo7KS10yfQ11KTzE3uYf5DfLv86hItgVqv9BDs2aBcr8" group-title="UNITED KINGDOM",|UK  | Comedy Central
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30952.ts
+#EXTINF:-1 tvg-id="CrimeAndInvestigationNetwork.uk" tvg-name="|UK  | Crime & Investigiation" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIHFoGp3RS-EnmLqSS-yk2a_zH-51MAmGW7-4I76HoOzQcxPUEYrHE7z0" group-title="UNITED KINGDOM",|UK  | Crime & Investigiation
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31026.ts
+#EXTINF:-1 tvg-id="CrimeAndInvestigationNetwork.uk" tvg-name="|UK  | Crime investigation  1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq9uiCAQDiV1E6ru6wIvWSD1LZJxnPDVmRpIRz4PAobl8EP6d9-kQ-xw" group-title="UNITED KINGDOM",|UK  | Crime investigation  1
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31048.ts
+#EXTINF:-1 tvg-id="Dave.uk" tvg-name="|UK  | Dave" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJZU8AIA15WxukVZzOPY-5hYU187Gd2IfcUUdyXi5zzEpLWlWBteD6DN0" group-title="UNITED KINGDOM",|UK  | Dave
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30953.ts
+#EXTINF:-1 tvg-id="Drama.uk" tvg-name="|UK  | Drama" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGi4oC0sif5lLmMNw-nWGOqywSovYDH2nmudd4gjw0rMT30ScPHQdzmLCV" group-title="UNITED KINGDOM",|UK  | Drama
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30920.ts
+#EXTINF:-1 tvg-id="EEntertainment.uk" tvg-name="|UK  | E!" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGk-XN4SfI9G0w8OodXSdjnrYgiiEIZfP-k36R0YeFp5qMe6r09ezVvv9A" group-title="UNITED KINGDOM",|UK  | E!
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31053.ts
+#EXTINF:-1 tvg-id="EEntertainment.uk" tvg-name="|UK  | E!    1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxw30FEM5sUH0D9mPzIoXwrJicPa_saIyknGeI4aV9jtH97uytjRO-Oco" group-title="UNITED KINGDOM",|UK  | E!    1
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31054.ts
+#EXTINF:-1 tvg-id="E4.uk" tvg-name="|UK  | E4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2d5ztTViUa1tfdTcaovTY7aU1baWa2fZSYCsokguPkYTxhWlOW-QSHwHZ" group-title="UNITED KINGDOM",|UK  | E4
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30921.ts
+#EXTINF:-1 tvg-id="Eden.uk" tvg-name="|UK  | Eden" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQni1BoGVaAwPxAa7LrXRgJAhuE1VFisyQ3uiAV27Oj4mosF9BEkLfulWY" group-title="UNITED KINGDOM",|UK  | Eden
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30954.ts
+#EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="|UK  | Food Network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR70qtLiIzFGLawSGPwxUzfWAE4ya8SsFeu-7A9CC96TdFhekW13vpIOlo" group-title="UNITED KINGDOM",|UK  | Food Network
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31059.ts
+#EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="|UK  | Food Network  1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2IYcIdXKailfSPkFb6o_VuzRFcm7Guf2vcCdGOW-rELzBhEuT2k18MGo" group-title="UNITED KINGDOM",|UK  | Food Network  1
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31060.ts
+#EXTINF:-1 tvg-id="GOLD.uk" tvg-name="|UK  | gold" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDzy73YGir-XEb2ej9sHuiPyg3k9DE0haQ5NMjSgzDg1hLaVNc8QjUgHD3" group-title="UNITED KINGDOM",|UK  | gold
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30923.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK  | Good Food" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCZFDCejvcWK3IuvG-IYvtPuDauyWFVcV_4TFACmvecrnKFmJ9JG9cemRV" group-title="UNITED KINGDOM",|UK  | Good Food
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31061.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK  | H2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQni1BoGVaAwPxAa7LrXRgJAhuE1VFisyQ3uiAV27Oj4mosF9BEkLfulWY" group-title="UNITED KINGDOM",|UK  | H2
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30971.ts
+#EXTINF:-1 tvg-id="HeartTV.uk" tvg-name="|UK  | Heart TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS67hzMY92_U5a9-fVBAtx4FhBjfwrcLDBoLUQ0vq4AAT9FUpjYAc_a5pnc" group-title="UNITED KINGDOM",|UK  | Heart TV
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30896.ts
+#EXTINF:-1 tvg-id="HorrorChannel.uk" tvg-name="|UK  | Horror Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9Tb1u1t4ibtR6g8R503tScb72zOCeem_sjzfvV5q5pFjv5_Yz5ZNyWfU" group-title="UNITED KINGDOM",|UK  | Horror Channel
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30857.ts
+#EXTINF:-1 tvg-id="InvestigationDiscovery.uk" tvg-name="|UK  | Investigation Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9NeCVpxRMv7PTIQ9RIfCK_WL58vOZPOC8o3jmjv0tev3z0wepOfzQclw" group-title="UNITED KINGDOM",|UK  | Investigation Discovery
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31013.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK  | Irish Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwz2qIJWwzpr_HJTSTTWInpfLcuCiVDuZ3aIfT4zRow-h3Z7nXb-Bb1bir" group-title="UNITED KINGDOM",|UK  | Irish Tv
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30926.ts
+#EXTINF:-1 tvg-id="ITV1Anglia.uk" tvg-name="|UK  | ITV1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQni1BoGVaAwPxAa7LrXRgJAhuE1VFisyQ3uiAV27Oj4mosF9BEkLfulWY" group-title="UNITED KINGDOM",|UK  | ITV1
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31065.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK  | ITV  1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHdUZVHcL96mwHieE-w7b3KFMamlF82bB4Dn8O6aDZTrBJo69nFofFwiFO" group-title="UNITED KINGDOM",|UK  | ITV  1
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30879.ts
+#EXTINF:-1 tvg-id="ITV1Anglia.uk" tvg-name="VIP |UK  | ITV1 FHD 1080" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcnJaOOgUo0z7otHL8Dza-9-SYB_S31SuvCuGDd_KiLOcNgbWKCg60nxt-iA" group-title="UNITED KINGDOM",VIP |UK  | ITV1 FHD 1080
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30991.ts
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="|UK  | ITV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSruAqnAyBhZlht4Vcr7cU0UZeBo6mBUSTQjflOL58K45HVDfjVnBhOa7Q" group-title="UNITED KINGDOM",|UK  | ITV2
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31066.ts
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="|UK  | ITV2  1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJBu9ScroQCcDfyRq_OqWsnPH1mB-Vpcdc-6ElhQYjjJUQe2wn4CyU6Ms" group-title="UNITED KINGDOM",|UK  | ITV2  1
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30878.ts
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="|UK  | ITV 2 FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIs0X1qghQ3RQAnZf88JvdR69CYOWergSooPRU08Z7qR1-ZIy2BeMkVew" group-title="UNITED KINGDOM",|UK  | ITV 2 FHD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30887.ts
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="VIP |UK  | ITV2 FHD 1080" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcnHc01Dyjs0IvpsHVM8yi9pUbc1QqmsuB4-shn6mGQE1_Ftjrz07pL00" group-title="UNITED KINGDOM",VIP |UK  | ITV2 FHD 1080
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30990.ts
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="|UK  | ITV3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBlzKMEd3H1c6ezp1bRjRq22S9hbNvvmS_ragGm9wsfKylnollFp8gNPs" group-title="UNITED KINGDOM",|UK  | ITV3
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31067.ts
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="|UK  | ITV3   1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr2pfIZ9djzawgYgtBDhcwdSPukSjnu_9EkNTbrTGJNHYAkIS4adwGdw" group-title="UNITED KINGDOM",|UK  | ITV3   1
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30877.ts
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="|UK  | ITV 3 FHD 1080" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL3Uarqw9nZgFh_WvoWbyLgRZnO9vAa3hElzA_4-2ynhV4wiPp_5UTZA" group-title="UNITED KINGDOM",|UK  | ITV 3 FHD 1080
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30886.ts
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="|UK  | ITV4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1exPGEpvCkIvGFqmuj9LtsfMR2O1WZOmtt3G4Rae2uGBTWqg4bDRG7OA" group-title="UNITED KINGDOM",|UK  | ITV4
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31068.ts
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="|UK  | ITV4  1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDCzO82OlgEUJ8Xe9wuUMVl9fyHVjti_l6tIbx-4WDpR2lN4W8aac90n8" group-title="UNITED KINGDOM",|UK  | ITV4  1
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30876.ts
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="|UK  | ITV 4 FHD 1080" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs9dAtTr0NXDcNoGoHNRXDHYvK1prj5Lf0DEHByPQOWXjMvDxMUUKkZYo" group-title="UNITED KINGDOM",|UK  | ITV 4 FHD 1080
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30885.ts
+#EXTINF:-1 tvg-id="ITVBe.uk" tvg-name="|UK  | ITV be" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXh3hy_UM9XLwW9Cnn-GgST0-t-7o-fH2GX_yBBnYXJGpnnH5OgftB4lQ" group-title="UNITED KINGDOM",|UK  | ITV be
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30927.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK  | ITV ENCORE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlB3d993Yv280w7hBACWXkuzuQ4QhKfoDnmKNceSJ6SmlCouOTGratsCM" group-title="UNITED KINGDOM",|UK  | ITV ENCORE
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31012.ts
+#EXTINF:-1 tvg-id="Kerrang.uk" tvg-name="|UK  | KERRANG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQni1BoGVaAwPxAa7LrXRgJAhuE1VFisyQ3uiAV27Oj4mosF9BEkLfulWY" group-title="UNITED KINGDOM",|UK  | KERRANG
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31011.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK  | LFC TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvXEQF137-rf765VxHW-nNN0abdpbLGBfg9ptBNtmUv27vigeeAtdIbZ8" group-title="UNITED KINGDOM",|UK  | LFC TV
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31069.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK  | LFC TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS85dD-s6uvPPGfn9SLCZtB0DZGDVXq_XoX3ORA0F6B75Irr5ly4vM8Qg" group-title="UNITED KINGDOM",|UK  | LFC TV HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30883.ts
+#EXTINF:-1 tvg-id="Lifetime.uk" tvg-name="|UK  | Life time" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYb_lLV6bzoHp9rfo7ohx6U9U7QVzp791U7oNofbsDO51BHKx1VjG5aCL8" group-title="UNITED KINGDOM",|UK  | Life time
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30956.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK  | Living UK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfURkbcBGrERJcfU4wRZ0XmCu5A1PA38-cy5ULzccJMEx6Snofb9Tgyxd1" group-title="UNITED KINGDOM",|UK  | Living UK
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30957.ts
+#EXTINF:-1 tvg-id="LondonLive.uk" tvg-name="|UK  | London Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYVjhY-ivCaLeZv3hLI7RWXhUECYxbz2o4TUp6X_UvJAAuw-aqMc7dlsy2" group-title="UNITED KINGDOM",|UK  | London Live
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30928.ts
+#EXTINF:-1 tvg-id="More4.uk" tvg-name="|UK  | More 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC3v2jTCujIGA-f9pSPNG3mSRY4abP4_8HiPW7hmPP_VOU4FYgqdD4ncc" group-title="UNITED KINGDOM",|UK  | More 4
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30959.ts
+#EXTINF:-1 tvg-id="PBSAmerica.uk" tvg-name="|UK  | PBS America" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3CzmG8nCSyCs2IQDcVDYqgc_NxTNRaN9hQjDY_RkGO8P5i70oRL_WkGR9" group-title="UNITED KINGDOM",|UK  | PBS America
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30854.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK  | Peace TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmQwG-Rm7mkk6Al0FZmFAS5pnzSSl52uH_e-BnaZ03at-LwhWw_Wao4ww" group-title="UNITED KINGDOM",|UK  | Peace TV
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30865.ts
+#EXTINF:-1 tvg-id="PickTV.uk" tvg-name="|UK  | Pick" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQni1BoGVaAwPxAa7LrXRgJAhuE1VFisyQ3uiAV27Oj4mosF9BEkLfulWY" group-title="UNITED KINGDOM",|UK  | Pick
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30901.ts
+#EXTINF:-1 tvg-id="Quest.uk" tvg-name="|UK  | QUEST" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY_EbYQfJkWMaatvhao6Ob6XI3VR1IPGCWowAbOZyv4ulG9y206AjVCg" group-title="UNITED KINGDOM",|UK  | QUEST
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31009.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK  | RTE JUNIOR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDLD8TPjrMgOJVXR-Uoq2Z4-eJzcsO5xb4ZH4xIAP8MpYNJCTlLCgZJt5Nlg" group-title="UNITED KINGDOM",|UK  | RTE JUNIOR
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30875.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK  | RTE One" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZnEzhQK7R_U1e3fSuB0gB7F0rAtDu59YHZyMyTHXYuhfHnZcyxzmwEUk" group-title="UNITED KINGDOM",|UK  | RTE One
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31079.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK  | RTE Two" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5Ty6A8dqHMFv_2sf60KAf-IpjHq_6D6qt3OJE0nw2cUX4GJVmnxas7GQ" group-title="UNITED KINGDOM",|UK  | RTE Two
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31080.ts
+#EXTINF:-1 tvg-id="S4C.uk" tvg-name="|UK  | S4C" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3XongwzpvUx-EvsnD_rLISDdGbdHN2nm5kzvjbvLuK-aL2lA3K1TKRjE" group-title="UNITED KINGDOM",|UK  | S4C
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30853.ts
+#EXTINF:-1 tvg-id="Scuzz.uk" tvg-name="|UK  | Scuzz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQni1BoGVaAwPxAa7LrXRgJAhuE1VFisyQ3uiAV27Oj4mosF9BEkLfulWY" group-title="UNITED KINGDOM",|UK  | Scuzz
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30974.ts
+#EXTINF:-1 tvg-id="SkyArts.uk" tvg-name="|UK  | Sky Arts" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpd7gq87KraaQ6n_xgn8Ier_xuZlJ1c95jI1Xj8KmJTWOhRtdZKt1msyjk" group-title="UNITED KINGDOM",|UK  | Sky Arts
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30962.ts
+#EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="|UK  | Sky Atlantic  1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr3mtBWRI-3CY2JXNzJFX6aD4H6B7EFNMCe2On3Z09BUHaFerBfww9LQww" group-title="UNITED KINGDOM",|UK  | Sky Atlantic  1
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31081.ts
+#EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="|UK  | SKY Atlantic HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyFJ_ym5sXpuM9O2gsUgDkbikI2K1mIbQlKNKgbkyN6AjTY0eMZPjpKEA4" group-title="UNITED KINGDOM",|UK  | SKY Atlantic HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30963.ts
+#EXTINF:-1 tvg-id="SkyLiving.uk" tvg-name="|UK  | Sky Living  1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPG2vXZ4vBo-PryUPsQdS3nh5r_7r3ifDomFYXfdHAg00Be3DYrkoTDek" group-title="UNITED KINGDOM",|UK  | Sky Living  1
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31082.ts
+#EXTINF:-1 tvg-id="Sky1.uk" tvg-name="|UK  | SKY One" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYl2J-kkyYfIIYlTUqlqCusQkUe4jcEQZvUgKyYXa1--rpBgnS8OD69WU" group-title="UNITED KINGDOM",|UK  | SKY One
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30965.ts
+#EXTINF:-1 tvg-id="Sky2.uk" tvg-name="|UK  | Sky Two" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzCdgekCZ_EGmtayraaJrzw61ogt_I6lDoH3aycQApwVPphuhJuV6m4FUy" group-title="UNITED KINGDOM",|UK  | Sky Two
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31089.ts
+#EXTINF:-1 tvg-id="STV.uk" tvg-name="|UK  | STV FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWjmy6LOIphdmhbAElU2C0tBX4Lg8AwEirmEQfcAemKzVKOQ-vEGDkHQ" group-title="UNITED KINGDOM",|UK  | STV FHD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30881.ts
+#EXTINF:-1 tvg-id="TCM.uk" tvg-name="|UK  | TCM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQni1BoGVaAwPxAa7LrXRgJAhuE1VFisyQ3uiAV27Oj4mosF9BEkLfulWY" group-title="UNITED KINGDOM",|UK  | TCM
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30973.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK  | TG4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtxJ6RtifO4UbzTLvi_V_RdldrEHNAT_zhpq3e5cqOPfg4xnVxnBSf0ZY" group-title="UNITED KINGDOM",|UK  | TG4
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30880.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK  | The Vault" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQobqL1FJQM-ucLhRWQZ_-jyb0eb8fo4oOsjSFfiEotuhYpPutE3MDK99nZ" group-title="UNITED KINGDOM",|UK  | The Vault
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30851.ts
+#EXTINF:-1 tvg-id="TLC.uk" tvg-name="|UK  | TLC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbbthtLbhlYJG3uwYFAYyHZNSQ1-m0JG-M00I3h6sqwd9EgXFj7w-CJ0A" group-title="UNITED KINGDOM",|UK  | TLC
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31094.ts
+#EXTINF:-1 tvg-id="TLC.uk" tvg-name="|UK  | TLC   1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOZoS9QyQZDsmAmCMB5NZ99YiN5NV511fBVRf_Oa5nBgjOD3o5SZsLAwU" group-title="UNITED KINGDOM",|UK  | TLC   1
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31095.ts
+#EXTINF:-1 tvg-id="TLC.uk" tvg-name="|UK  | TLC - IRELAND" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9b_i3Py8U-ORS9beGidpFgPhzSZYuFi5eoULwHhuumZIV8buE_gUY23U" group-title="UNITED KINGDOM",|UK  | TLC - IRELAND
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31105.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK  | TV3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQni1BoGVaAwPxAa7LrXRgJAhuE1VFisyQ3uiAV27Oj4mosF9BEkLfulWY" group-title="UNITED KINGDOM",|UK  | TV3
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30873.ts
+#EXTINF:-1 tvg-id="Universal.uk" tvg-name="|UK  | Universal   1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwtvy7UcrBaMRrD79dCYG5zgEkcf-9e-yElM-uspNjgbRy1yJH6JcHjr8" group-title="UNITED KINGDOM",|UK  | Universal   1
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31098.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK  | UTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkL7P00rZlO4nchV8e1BFl5kvTid5sOYahh9G0oBicZ99MP4pDy5fGfa4" group-title="UNITED KINGDOM",|UK  | UTV
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30948.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK  | VICELAND" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEHO5JAemMnqXtCyvVOpOkVsM0eQJ7QsuueuwF9rm01KFpnYEWTHzsRV2I" group-title="UNITED KINGDOM",|UK  | VICELAND
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31006.ts
+#EXTINF:-1 tvg-id="" tvg-name="|UK  | Watch" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8SvzdXIIwPS_aNKXZcLP0FOsgvYPIC8v3BtujtAkJYdn_kiT-X7uvqgc" group-title="UNITED KINGDOM",|UK  | Watch
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31005.ts
+#EXTINF:-1 tvg-id="Yesterday.uk" tvg-name="|UK  | Yesterday" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQni1BoGVaAwPxAa7LrXRgJAhuE1VFisyQ3uiAV27Oj4mosF9BEkLfulWY" group-title="UNITED KINGDOM",|UK  | Yesterday
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30968.ts
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="VIP |UK  | BBC 1 HD ( 1080P )" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1zxRohl04xchInUaGAkt9MNAQLfdZS33D2ZpEjPGVzpkIVV-wt-NX8G8" group-title="UNITED KINGDOM",VIP |UK  | BBC 1 HD ( 1080P )
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/30992.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="###### -- |USA| USA |USA| -- ######" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4f-23bdCCIOOjbNm8BFaVLK76W2qLZR2A0jFJ2KivYuPeyw2dCueQhBS9" group-title="USA",###### -- |USA| USA |USA| -- ######
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/22498.ts
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | ***** USA SPORTS *****" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF_smbtzD2kziB7lSw0sUoCV5hefapJmbNwgPB20duiTzfZ12WL_Y-lWo" group-title="USA",|USA  | ***** USA SPORTS *****
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31851.ts
+#EXTINF:-1 tvg-id="NBC.us" tvg-name="|USA *| NBC HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpTF-W9_tbBvW_e0Wha_TkGTzwNSoWqQY4nS79By1VfqMLWOIVj0AuTN4" group-title="USA",|USA *| NBC HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31700.ts
+#EXTINF:-1 tvg-id="NBC.us" tvg-name="|USA  | NBC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU6Pr6JjW_UmUgqZOEdGo92pjIMf53OaKzYQyXTt8ym-lUCbxhEBMAeDr-_A" group-title="USA",|USA  | NBC
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31786.ts
+#EXTINF:-1 tvg-id="NBCSportsNetwork.us" tvg-name="|USA *| NBCSN HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0W2y99F13UWLBGQXtN7MQghFV359h1TjEayMNJQfM-MJhqlYfDUcwl0CgrA" group-title="USA",|USA *| NBCSN HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31612.ts
+#EXTINF:-1 tvg-id="NBCSportsNetwork.us" tvg-name="|USA  | NBCSNHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4f-23bdCCIOOjbNm8BFaVLK76W2qLZR2A0jFJ2KivYuPeyw2dCueQhBS9" group-title="USA",|USA  | NBCSNHD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31768.ts
+#EXTINF:-1 tvg-id="AFNSports.us" tvg-name="|USA *| AFN Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Ln0QtDkOrz1EAkYJwsTHUUNLupmLZSHL4Nth7hQzpPAj8KaHTtqppA" group-title="USA",|USA *| AFN Sports
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31681.ts
+#EXTINF:-1 tvg-id="AFNSports2.us" tvg-name="|USA *| AFN Sports 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD8SY0ZwMx4tMCjB-qVDrGRCUZQYvDrKbVIXfdm_Kl4zQ2cE8zVU7MEd8" group-title="USA",|USA *| AFN Sports 2
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31680.ts
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="|USA *| BEIN Sports HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRec0mVUgRyImnfuF7qnpokOqpAYd4go29HE7l9xz-eT1OP2AVW4DG2mMIt" group-title="USA",|USA *| BEIN Sports HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31693.ts
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="|USA  | Bein Sports USA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIMPICOD1KuCXY1bXRGJDLU37fWmD-mIMtjjNz_EhHjaAZm0UYldfwK9x5uw" group-title="USA",|USA  | Bein Sports USA HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31827.ts
+#EXTINF:-1 tvg-id="BET.us" tvg-name="|USA *| BET HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQWzb1C16dAA9OAkzyUVYTG45zjo1Ch6eA6G-PQe03p6HnaSdLjoGdlradLA" group-title="USA",|USA *| BET HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31677.ts
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | BTN Sport HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ6WIXiocQxk0cdenWshAhxt6zikAwpouzmK7fflaHxLFWIqv9eDQbyy6s" group-title="USA",|USA  | BTN Sport HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31709.ts
+#EXTINF:-1 tvg-id="" tvg-name="|USA *| BTN HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRabCPEcUIWcUKnSK6xwDUpLAecIjzuye9vvJ4Yf2RroK6EIBMFUONOlQ" group-title="USA",|USA *| BTN HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31672.ts
+#EXTINF:-1 tvg-id="BigTenNetwork.us" tvg-name="|USA *| Big Ten Network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9U0VjTdtzBXeU6VcORj1NUNf8ZmJgV4M-h5glFlBDP6Zd01FzTJgCGg" group-title="USA",|USA *| Big Ten Network
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31676.ts
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="|USA *| ESPN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoQBzqMovDOQ1dNWBNhUQd3fGzzSviWAoyWK-_bEhwtIy-So1lCKgNTE" group-title="USA",|USA *| ESPN
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31647.ts
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="|USA  | ESPN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoQBzqMovDOQ1dNWBNhUQd3fGzzSviWAoyWK-_bEhwtIy-So1lCKgNTE" group-title="USA",|USA  | ESPN
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31765.ts
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="|USA  | ESPN HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmy0yPBTUH8ousejEzWyFiDhbzz9qWNdzqyAnHKDPzwbTp5D-wWDId22RG" group-title="USA",|USA  | ESPN HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31755.ts
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="|USA  | ESPN 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4PLtyKPxwA20oqO8WNXHNNxRirzcJT82rqhWLhl_H5ysEMIcYpxgUG3I" group-title="USA",|USA  | ESPN 2
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31805.ts
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="|USA *| ESPN 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHh7u_EFu8BWznVxG3_bsIAZdHEwR4rj8o7GlyGyULagKrB8CiXd14zwRL" group-title="USA",|USA *| ESPN 2 HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31646.ts
+#EXTINF:-1 tvg-id="" tvg-name="|USA *| ESPN 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIdF-Lk6CuSG15rxHO0gqgnucHDrX9lRPVo-Z83ZUErvBtxL2BBfqW7cn9Rg" group-title="USA",|USA *| ESPN 3
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31645.ts
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="|USA  | ESPN U HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRarCH7ch5RZwnlnrJpnwYZvJuiOgEYgszHiUbKG2hLiyxjPonY72tvPj4" group-title="USA",|USA  | ESPN U HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31778.ts
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="|USA *| ESPN U HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIdF-Lk6CuSG15rxHO0gqgnucHDrX9lRPVo-Z83ZUErvBtxL2BBfqW7cn9Rg" group-title="USA",|USA *| ESPN U HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31643.ts
+#EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-name="|USA *| ESPN Deportes HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBMAx_h7bjENb6JdgoDEVi2WDKYHqszqcagpMwE4KinTe0Is7gL2VA8lk" group-title="USA",|USA *| ESPN Deportes HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31644.ts
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="|USA *| CBS Sports Network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYJqcEDAvok0Xz65HCoKwm5AW2uAHsKE58LuZgjCB6DUyUA4IIcGEzTVQ" group-title="USA",|USA *| CBS Sports Network
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31665.ts
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="|USA  | CBS Sports Network HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlsIGyZhwy_s1puctY6hpB9AaqsKO_Z2hvkGzxbaOTd8b6LRtE8RYXsU-V" group-title="USA",|USA  | CBS Sports Network HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31710.ts
+#EXTINF:-1 tvg-id="CBS.us" tvg-name="|USA  | CBSN HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX_GudDFUAOgJefCUtG64h4R2HUjiNA2znM726lz0ODQUT-UbG0ulvtpDZ" group-title="USA",|USA  | CBSN HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31731.ts
+#EXTINF:-1 tvg-id="CBS.us" tvg-name="|USA *| CBS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhTKiTloOTAwM_Ldyc8U0odYhtjtUGB2zxMBF0R80tt3mMbsJSosg0Gq8" group-title="USA",|USA *| CBS
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31666.ts
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="|USA *| FOX Sports 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi1tAu1BYKrxBKTYxB7OuNZqtWlbpU3kXEeEPKrv1o1j8hTYzdisctbw" group-title="USA",|USA *| FOX Sports 1 HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31698.ts
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="|USA *| FOX Sports 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuxKIAtkp94lDdKaas4Q2TWBXA7utvtwvUtrzN75mYnF5Qo47qRdMTi_U" group-title="USA",|USA *| FOX Sports 2 HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31699.ts
+#EXTINF:-1 tvg-id="FX.us" tvg-name="|USA *| FX HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-SrLm1t4Gc5At7WIkySXtlh_2_QRQpKgQangoJWFN-bUP1QxsYkLks_5c" group-title="USA",|USA *| FX HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31636.ts
+#EXTINF:-1 tvg-id="FXX.us" tvg-name="|USA *| FXX HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf4ezCWCvgMzeGYCq5qMjlKHq5i2pQ4HeNMUb8V4MtP---0Qx0kX9gmHU" group-title="USA",|USA *| FXX HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31635.ts
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="|USA *| Food Network HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvDLrDC4OsJRpeonLFe9KNxoE3OWnKtgZMOcPANsJi-QOmbsotvvsPrQ" group-title="USA",|USA *| Food Network HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31641.ts
+#EXTINF:-1 tvg-id="FOXSoccerPlus.us" tvg-name="|USA *| Fox Soccer" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEf8B9O-v5zLW4H4NX9kB_E-ZJuFxpUR1U2Xah1k-ZvmTBAaL7pS3Pf0Q" group-title="USA",|USA *| Fox Soccer
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31642.ts
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="|USA  | Fox Sports 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzmy3RlRkXw5-EcSKHHtB353Aw6Z0rnHiMQR4IdffXGMG6DyhX6nBHDZdW" group-title="USA",|USA  | Fox Sports 1 HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31766.ts
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="|USA  | Fox Sports 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMEJcVTE5GQ2M8JZ8MENmtjMyMaOhaKUEZY34wNMKA6Uo_upbTdVBBwJGC" group-title="USA",|USA  | Fox Sports 2 HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31767.ts
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="|USA  | Fox sport 1 backup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3zvCVVs0EX0lRExW8HutrIOedEXgVGYs-TzrKLkRvx3mNURy0l7Yd822w" group-title="USA",|USA  | Fox sport 1 backup
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31708.ts
+#EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="|USA *| Golf HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCspjuwUi2-Eyv0tWNdN_xDDKkCq8qNz6435rm3PDi5x9C_xCHHrWSOQ" group-title="USA",|USA *| Golf HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31634.ts
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="|USA *| MLB Network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC4uDrXiwox0afgrWU25_q2hpEaC2WjymivhwYBM_rXEW2c2aHQ0oIgFbqng" group-title="USA",|USA *| MLB Network
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31619.ts
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="|USA  | MLB Network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaQUBt2mVjZPiR_fks_6SG45tCsHBuYFGUj2dvfMVP94jqb6Mx_fzXI9I" group-title="USA",|USA  | MLB Network
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31807.ts
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="|USA  |  NBA TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzwrbikoY-XegJHARCaJH8JRIcJlXvWe6tvawgCFcqQhf-Ab0xRRn41_Q" group-title="USA",|USA  |  NBA TV HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31741.ts
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="|USA *| NBA TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTinj-iDrG8c2k0GGpw4eqsKu9OXFpxKXnUXnbNobh8a3O1WzL2E7YRGW5i" group-title="USA",|USA *| NBA TV HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31614.ts
+#EXTINF:-1 tvg-id="" tvg-name="|USA *| NBC Golf" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY9p2MVigNSFol1soXWo1PUrYVlpKq-3oKoeImlUVUwaWaL9k4bMkV5Dc" group-title="USA",|USA *| NBC Golf
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31613.ts
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | NBC Golf" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3-wN5sr4xBXQ_jXKSkeSr2Hls78MV_TH-cWzybut5x8pUAaHcsLKFvg" group-title="USA",|USA  | NBC Golf
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31759.ts
+#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="|USA  | NHL Network(1)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvwQ8HPotPmCv8QK9XlHc1yTHznzPw64v7X0jjgXk-uK8mQt199spy89UV" group-title="USA",|USA  | NHL Network(1)
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31809.ts
+#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="|USA *| NHL Network HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxCe69Ml_1ehIGq1jKLt4Pn8p6HBUV6y_Y8v5JDwYGikUXyUrsJth4vbGI" group-title="USA",|USA *| NHL Network HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31611.ts
+#EXTINF:-1 tvg-id="SECNetwork.us" tvg-name="|USA *| SEC Network HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVRIthyXRz3eecCSSYWHP_xgNBFZY8rEj-mdXrbpG7_E8dgZaIN8WTsDQ" group-title="USA",|USA *| SEC Network HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31604.ts
+#EXTINF:-1 tvg-id="SECNetwork.us" tvg-name="|USA  | SEC Network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbeAyAyEKOK_G9lCpGMOezjKDb09MMe2b1ch6lnn3hYcUuuNDuqLgsrQ" group-title="USA",|USA  | SEC Network
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31810.ts
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="|USA  | TNT HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-MQ2HFs1G6CO-iLVGXBV5L_xttx_49eySOnJrOAA2y7PMfFSwTuDQNbQ" group-title="USA",|USA  | TNT HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31762.ts
+#EXTINF:-1 tvg-id="" tvg-name="|USA *| TNT HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRI8Br1GUpOU5zdFvSWJ2UxhC3IhsE01X_QyJCQCyEd_4-FuCM7KWTPun9" group-title="USA",|USA *| TNT HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31596.ts
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="|USA *| TSN HD 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0tmD7nDJf3S16w6IEBegNM_8tTq_t_mFa_tnZbzgtFCPSIsfvT8vVV9I" group-title="USA",|USA *| TSN HD 1
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31705.ts
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="|USA *| TSN HD 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbfQyHmlvFrF-CZio3jbBEY2sff2H-bOiDKmB9mhFboPi81SEcB0Qt1ui9" group-title="USA",|USA *| TSN HD 2
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31704.ts
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="|USA *| TSN HD 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0tmD7nDJf3S16w6IEBegNM_8tTq_t_mFa_tnZbzgtFCPSIsfvT8vVV9I" group-title="USA",|USA *| TSN HD 3
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31703.ts
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="|USA *| TSN HD 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0tmD7nDJf3S16w6IEBegNM_8tTq_t_mFa_tnZbzgtFCPSIsfvT8vVV9I" group-title="USA",|USA *| TSN HD 4
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31702.ts
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="|USA *| TSN HD 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0tmD7nDJf3S16w6IEBegNM_8tTq_t_mFa_tnZbzgtFCPSIsfvT8vVV9I" group-title="USA",|USA *| TSN HD 5
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31701.ts
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="|USA  | TSN 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgE1VXFIuDP4XHl5pcVB7OIxGghLc6HYIwD-f79REbwH5Gk5rWO-4WXp5q" group-title="USA",|USA  | TSN 1
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31813.ts
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="|USA  | TSN 3*" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2PNvFnZOQ2PAo9chgiEW0Ufj_k08wrqCXCqO5BOH6Hgss4r1z8I17jlDv" group-title="USA",|USA  | TSN 3*
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31815.ts
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="|USA  | CA | TSN 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCcVjsebBdeHBwzhihTYm3I1oEC4UWwAiOCqPRg8DQFg7g0vitdCilyuM" group-title="USA",|USA  | CA | TSN 2
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31814.ts
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="|USA  | CA | TSN 4 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrrfcGXlBOEMGgPGQR0nQtpHtcGEZTVYPZPaczMjYNoBVNoKW35AQc9II" group-title="USA",|USA  | CA | TSN 4 HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31816.ts
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="|USA  | CA | TSN 5*" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCfn6uyAhpddtcSMj1H_ghgNbLKak2jAW9uB1THhcwQnbb8QXs9Ouu6CY" group-title="USA",|USA  | CA | TSN 5*
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31817.ts
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="|USA  | Tennis Channel HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6BBQqIjvIVeEiBERMLpZJ-18aTFQ4AXmy9yI4c6x5miMQxUa5MI7slIo" group-title="USA",|USA  | Tennis Channel HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31749.ts
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="|USA *| Tennis HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbppVfqMA5j7zgYOJIy_QepQrxSg0Lv6oMwC98IeXDcMXw-lMWbQ6_3Xw" group-title="USA",|USA *| Tennis HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31599.ts
+#EXTINF:-1 tvg-id="WWE.us" tvg-name="|USA *| WWE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYWBKdPJsoHvmpRYRZzlKu-saLR62frFS8OeEmwHtKWJEyZ_2AZndELDc" group-title="USA",|USA *| WWE HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31590.ts
+#EXTINF:-1 tvg-id="WWE.us" tvg-name="|USA *| WWE Network HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCkeepfqppAPoS95sJvZTQLsDtvtGZDtP4GPswVUr--e4Mt8wxH26duyg" group-title="USA",|USA *| WWE Network HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31589.ts
+#EXTINF:-1 tvg-id="WWE.us" tvg-name="|USA  | WWE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4xXodyeHGijnds5gYya1ugOYmOahFk_KViMQH1YKnxieo_fj_ygJt8uSl" group-title="USA",|USA  | WWE HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31775.ts
+#EXTINF:-1 tvg-id="WillowCricket.us" tvg-name="|USA *| Willow Cricket HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTarHt-VP8jZkXNFL0Cg-maAt_0p-BbC08gc2KF_bZqEF3nKfum3Jo-vJWs" group-title="USA",|USA *| Willow Cricket HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31591.ts
+#EXTINF:-1 tvg-id="AFNSports.us" tvg-name="|USA  | AFN SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiFUkK0coS3CLuVVlZSxeIiXInsYzEsOtHCY8d8EJz9qDuwdU66oCZR9AS" group-title="USA",|USA  | AFN SPORTS
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31825.ts
+#EXTINF:-1 tvg-id="AFNSports2.us" tvg-name="|USA  | AFN SPORTS 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD8SY0ZwMx4tMCjB-qVDrGRCUZQYvDrKbVIXfdm_Kl4zQ2cE8zVU7MEd8" group-title="USA",|USA  | AFN SPORTS 2
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31826.ts
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | FIGHT SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0wkGl0OAU1LdhOGbvDnhFlxeL0-P-BGbw_p9WtKqn0_v12js4bx1rOTyJ" group-title="USA",|USA  | FIGHT SPORT
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31818.ts
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | FOX 43" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSMiR9OUaw7NrtY5_5lut6QF64HAdvqAy2ZwTpLOSxX9hh203Z-M0aCU8" group-title="USA",|USA  | FOX 43
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31806.ts
+#EXTINF:-1 tvg-id="FoxNews.us" tvg-name="|USA  | FOX NEWS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAl-LJfrrQZQjpIWz-nB6-m0YBki4QFbWLF1oqw1nVqFFAiMRO75nVJNxf" group-title="USA",|USA  | FOX NEWS HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31756.ts
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | FOXX HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6BBQqIjvIVeEiBERMLpZJ-18aTFQ4AXmy9yI4c6x5miMQxUa5MI7slIo" group-title="USA",|USA  | FOXX HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31834.ts
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | FUEL HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX_GudDFUAOgJefCUtG64h4R2HUjiNA2znM726lz0ODQUT-UbG0ulvtpDZ" group-title="USA",|USA  | FUEL HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31791.ts
+#EXTINF:-1 tvg-id="FX.us" tvg-name="|USA  | FX HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl2-hVxQCPAf9qx6r-J7LxTaWcFI4zrr3Le1wDs5Pl8R_S7JO3CC2B4zEB" group-title="USA",|USA  | FX HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31835.ts
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | Fight HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6BBQqIjvIVeEiBERMLpZJ-18aTFQ4AXmy9yI4c6x5miMQxUa5MI7slIo" group-title="USA",|USA  | Fight HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31735.ts
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="|USA  | NFL Network 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ72U56vlUqW9kmmCjURwS77aOeDNRKrMkx5zBdKubffkrdQH6l_7BpFAKV" group-title="USA",|USA  | NFL Network 1
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31798.ts
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="|USA  | NFL Network 1080i" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReHlccRp5cRW65YN7dNNrfZ-Uj-IVjQJOUD5-K11wvrQV3wfaw5NKIgfA" group-title="USA",|USA  | NFL Network 1080i
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31727.ts
+#EXTINF:-1 tvg-id="NFLRedZone.us" tvg-name="|USA  | NFL REDZONE SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5ee8n0JucCViMYWjZgxI66N6P6lLKrZ3ukwGkEqceSXtowlo1MHUPJKmn" group-title="USA",|USA  | NFL REDZONE SD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31726.ts
+#EXTINF:-1 tvg-id="PAC12Arizona.us" tvg-name="|USA  | PAC-12 Arizona" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQWo6KYs_3JCBF2Awt0uwkT-JnvCQQsKDbUBo1Fx3FlkVdhSM6fjLWnyIZyg" group-title="USA",|USA  | PAC-12 Arizona
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31769.ts
+#EXTINF:-1 tvg-id="PAC12BayArea.us" tvg-name="|USA  | PAC-12 Bay Area" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVTrDpCHAe0DscbOrwY7cQYSHM71LvwnDevTzqUnOWJEI7URnyyXXHROi9Bg" group-title="USA",|USA  | PAC-12 Bay Area
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31770.ts
+#EXTINF:-1 tvg-id="PAC12LosAngeles.us" tvg-name="|USA  | PAC-12 Los Angeles" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQWo6KYs_3JCBF2Awt0uwkT-JnvCQQsKDbUBo1Fx3FlkVdhSM6fjLWnyIZyg" group-title="USA",|USA  | PAC-12 Los Angeles
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31771.ts
+#EXTINF:-1 tvg-id="PAC12Oregon.us" tvg-name="|USA  | PAC-12 Oregon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFpAJX-UGmm4xcnXvkmRu1qTVlqosn2eEV92WtV_31cci7Hy-J5MLhNL4" group-title="USA",|USA  | PAC-12 Oregon
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31772.ts
+#EXTINF:-1 tvg-id="PAC12Washington.us" tvg-name="|USA  | PAC-12 Washington" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsIOMJJB54bf5Lwg0by_c37HYO1Ad9D_xVa16v_cbjHWIsPhYX-yncasdx" group-title="USA",|USA  | PAC-12 Washington
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31773.ts
+#EXTINF:-1 tvg-id="SportsNetNewYork.us" tvg-name="|USA  | Sports-Net" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRydsZNl8to9bgMT04YguM5WKvFa6YI4Yi4S9KbuYOaQ2vV3kGVPbM8q-cd" group-title="USA",|USA  | Sports-Net
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31844.ts
+#EXTINF:-1 tvg-id="Sportsnet360.ca" tvg-name="|USA  | Sportsnet 360 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMpbSIfvOWu5JCeAIP_jm8nR0AmTm3kG-xVUR4nItiLDbEd67z77ia4og" group-title="USA",|USA  | Sportsnet 360 HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31812.ts
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | VIP: BAYERN FC TV FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy2U9hZQD4w1hGGiCxbrpdhFv7YW92jM0vWAt8eQBXBh74kF6EQBjRt_Y" group-title="USA",|USA  | VIP: BAYERN FC TV FHD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31712.ts
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | ***** USA CARTOONS *****" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkmpYaCAeRy749fKOf3dMc2pXhOZxxgbSkmxUIfItbBv_TvpW-4RYaY9M" group-title="USA",|USA  | ***** USA CARTOONS *****
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31850.ts
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | Nursery Rhymes (Baby Songs)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDoTL72xSrsOkMCN_AmkguuV6qZ0SZsA5WOlpthUt0eKP-ikT2QQ8BDTHX" group-title="USA",|USA  | Nursery Rhymes (Baby Songs)
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31782.ts
+#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="|USA *| Boomerang HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn642kVU3YOtglbv9khS42zyFAkmTv0NpfvHz-ENviTpDLceH5u34dAn7C" group-title="USA",|USA *| Boomerang HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31674.ts
+#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="|USA *| Disney Channel HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ72QR3RnJuyuLlys3gEe9R2Ppl7kXZOtPQx1nEFY9lNuv4ib6qIyWc9n8" group-title="USA",|USA *| Disney Channel HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31652.ts
+#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="|USA *| Disney Jr. HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmsLdjQh9-9BLhd9R2iWHPsdG-4kT0Z-DrutI5kvDDaB2lKfeQXPc9LBc" group-title="USA",|USA *| Disney Jr. HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31651.ts
+#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="|USA  | DISNEY JR HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2vacQlQb_4PBdzUYuBPhhs8gaACZENx7dlsWO7zZ82PFUkz2_zAh3e8oB" group-title="USA",|USA  | DISNEY JR HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31720.ts
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="|USA  | NICKELODEN HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX_GudDFUAOgJefCUtG64h4R2HUjiNA2znM726lz0ODQUT-UbG0ulvtpDZ" group-title="USA",|USA  | NICKELODEN HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31839.ts
+#EXTINF:-1 tvg-id="NickJr.us" tvg-name="|USA *| Nick Jr. HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU1U71xvbMXmzEPG6XFcUxHuV0pzX7NQizkdcN6eIivRI0PrX99onIOCM" group-title="USA",|USA *| Nick Jr. HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31610.ts
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="|USA *| Nickelodean HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQJjqeX-MFbu_M9Hk8JCP9kISdOBLiv6yp886MRs1cmZKKeBDcjlzocfw" group-title="USA",|USA *| Nickelodean HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31609.ts
+#EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="|USA *| Nicktoons HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7cObmSEoQ7Lm7aKUTKdgOQ8AYTL4Ms7AYJTq2zO4WFWeLOTTW3iJuAs8" group-title="USA",|USA *| Nicktoons HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31608.ts
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="|USA *| Bloomberg HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkcmWp7o8SIKf-HvPXO5IshQ2TMWd7soRGOicbkoLnrKQIZbSsy7_qpQ" group-title="USA",|USA *| Bloomberg HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31675.ts
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="|USA  | Bloomberg Europe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1uBqxfYop-YWtywEqQDHqE0HMjaDAweMhdbwI8r5lOfxKUGNe70pkBYdK" group-title="USA",|USA  | Bloomberg Europe
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31797.ts
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="|USA  | Bloomberg TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDK51xhQRoKP1JZZemmYJM8tTiCa1Rab0PanjnjvQ7yn3_WF4R1NZqUOQ6" group-title="USA",|USA  | Bloomberg TV
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31785.ts
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="|USA  | CARTOON NETWORK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXnua9FvrmRxnpGbBliiDQkuYtPqjTw-pNm2_zVezmo0wobfZOujYdJ_C9" group-title="USA",|USA  | CARTOON NETWORK
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31730.ts
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="|USA *| Cartoon Network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiYalf6nnFf1SY10-FC3rHyvslDusBGfc75qTxjfuDDlZb4tzNxTUGJJs" group-title="USA",|USA *| Cartoon Network
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31668.ts
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | Toon Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsxKxtEdogvxe3e6_YOFp0XWSzyhyNvcArItfMoEPNy7uMgBIHGbzvzBE7" group-title="USA",|USA  | Toon Kids
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31722.ts
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | ***** USA CINEMA *****" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXrnqraZ01GWfjshA2_JcC-ojjAgWGBZ_grKKZv84kg873pFOp9ptiF10" group-title="USA",|USA  | ***** USA CINEMA *****
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31849.ts
+#EXTINF:-1 tvg-id="ActionMax.us" tvg-name="|USA *| Action Max" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIp1aMP8DWYewrJZL6kb9s6WB_JlvEr86ttgFgXjjrLV2sglFjh3SkwJY" group-title="USA",|USA *| Action Max
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31684.ts
+#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="|USA *| BBC America HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhx0FtXGijlUtCurBdBYRAK_XaoQNy_9b5ktuWQudwNY2WpKz0-1jjAiEx" group-title="USA",|USA *| BBC America HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31678.ts
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="|USA *| Comedy Central" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl0qU3-zMrK3RLo7KS10yfQ11KTzE3uYf5DfLv86hItgVqv9BDs2aBcr8" group-title="USA",|USA *| Comedy Central
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31661.ts
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="|USA  | COMEDY CENTRAL HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzsbo5R_JkZmZsOmYSoQ6rOVdVDcEs1dvCWgvT-Xnn9HdclQs42l-DyvBU" group-title="USA",|USA  | COMEDY CENTRAL HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31753.ts
+#EXTINF:-1 tvg-id="" tvg-name="|USA *| Cinemax 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6hvAG2VblI2OATKamaKI9FwsBgH0_4_SkQzqeDR94t4VsVIN5EVWGNE8" group-title="USA",|USA *| Cinemax 5
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31664.ts
+#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="|USA *| Cinemax HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2bXC7TUZEyp7Y76EGBptSnGkawrZ4E5Pdov7ZBtUZICkkFTsGNod-EvCy" group-title="USA",|USA *| Cinemax HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31706.ts
+#EXTINF:-1 tvg-id="MoreMax.us" tvg-name="|USA *| Cinemax Moremax" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6hvAG2VblI2OATKamaKI9FwsBgH0_4_SkQzqeDR94t4VsVIN5EVWGNE8" group-title="USA",|USA *| Cinemax Moremax
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31663.ts
+#EXTINF:-1 tvg-id="MoreMax.us" tvg-name="|USA *| Cinemax MoreMax HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6hvAG2VblI2OATKamaKI9FwsBgH0_4_SkQzqeDR94t4VsVIN5EVWGNE8" group-title="USA",|USA *| Cinemax MoreMax HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31662.ts
+#EXTINF:-1 tvg-id="5StarMax.us" tvg-name="|USA  | Cinemax 5 StarMax" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmiEPI11TYF22DtRNr8d0_B4FAhP_W4f9UpIITU4Plc1FyZtx-o7yaWiA" group-title="USA",|USA  | Cinemax 5 StarMax
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31828.ts
+#EXTINF:-1 tvg-id="ActionMax.us" tvg-name="|USA  | CINEMAX ACTION HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT39YMet-R3DKwzMnsBIDlmZZd9wIpWKEZxbl_ZQvgUMinqD483yqg0fGM" group-title="USA",|USA  | CINEMAX ACTION HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31803.ts
+#EXTINF:-1 tvg-id="ActionMax.us" tvg-name="|USA  | Cinemax ActionMax East" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6hvAG2VblI2OATKamaKI9FwsBgH0_4_SkQzqeDR94t4VsVIN5EVWGNE8" group-title="USA",|USA  | Cinemax ActionMax East
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31829.ts
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | Cinemax East" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjmsfGnX6sI59hOpQZ7ymbTQFdv1S1aXexNx56QSFme13JkAf-BWQb7Qzw" group-title="USA",|USA  | Cinemax East
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31830.ts
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | Cinemax East HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6hvAG2VblI2OATKamaKI9FwsBgH0_4_SkQzqeDR94t4VsVIN5EVWGNE8" group-title="USA",|USA  | Cinemax East HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31796.ts
+#EXTINF:-1 tvg-id="MoreMax.us" tvg-name="|USA  | Cinemax MoreMax" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxtSzOMOzOuYENyWU3cwmcC7TPzPBn-wxNyTEW8s-zyPzISPmdUdcpP5Q" group-title="USA",|USA  | Cinemax MoreMax
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31795.ts
+#EXTINF:-1 tvg-id="HBOComedy.us" tvg-name="|USA  | HBO Comedy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGNIY1k7pBV9VV5-1ZaO6ut5Yao3xz-wq-bFb3Iw5s_ggCImxGuJ9T9dc" group-title="USA",|USA  | HBO Comedy
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31736.ts
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="|USA  | HBO HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmQfWllaON7mcRVqfHrU_pFkHZWyIQ4xvCPESPqt4_X3ZM4bVcROcctN1r" group-title="USA",|USA  | HBO HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31738.ts
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="|USA  | HBO East" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM8xogmFZITE3zSDsdSQYnqAHvilJSCe0Mi5x3rvqv8qSmDv-T7G8Zb_fU" group-title="USA",|USA  | HBO East
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31737.ts
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | HBO Signature" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlrJTNW6VOIYpD9m_Am7QwEa70Fjc7jh6gdEqZw5z-p37i3oWLa7I3TFBE" group-title="USA",|USA  | HBO Signature
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31739.ts
+#EXTINF:-1 tvg-id="HBOZone.us" tvg-name="|USA  | HBO Zone" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8Aii-n5Awym7njEOVFmvMDXAu-JnjeiWnsbQVrHCHjohipJEnZitqJ94" group-title="USA",|USA  | HBO Zone
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31740.ts
+#EXTINF:-1 tvg-id="HBO2.us" tvg-name="|USA *| HBO 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHu2tIVCOaFLcxbe_MpWEysE1CEgffRL8Xmn0dplOBROGQTzfnqMakwPTw" group-title="USA",|USA *| HBO 2
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31627.ts
+#EXTINF:-1 tvg-id="HBOComedy.us" tvg-name="|USA *| HBO Comedy HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShbhffk3lRhxS9vP5KA-bvxCB2h4MwUbccS-8AH-tY5ZjQdKZ5niZV-A" group-title="USA",|USA *| HBO Comedy HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31629.ts
+#EXTINF:-1 tvg-id="HBOFamily.us" tvg-name="|USA *| HBO Family HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXECsScwl475V9fwbnn46B8FesZEkBRXOX3cuBuflaSaOdlxRVyFnragw" group-title="USA",|USA *| HBO Family HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31690.ts
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="|USA *| HBO HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRecIxX26fl3i0Ac_2tSQVAl-BzQ8tTEnYIUVFDyqd37PwDjFAZ2MfRJQ" group-title="USA",|USA *| HBO HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31628.ts
+#EXTINF:-1 tvg-id="HBOSignatureEs.us" tvg-name="|USA *| HBO Signature HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTye6bzmvu6h450lifmZlyALNNCi_SbLbUupVtjq4Xb-2m8_qX29tV4Kwk" group-title="USA",|USA *| HBO Signature HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31626.ts
+#EXTINF:-1 tvg-id="HBOZone.us" tvg-name="|USA *| HBO Zone" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8Aii-n5Awym7njEOVFmvMDXAu-JnjeiWnsbQVrHCHjohipJEnZitqJ94" group-title="USA",|USA *| HBO Zone
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31625.ts
+#EXTINF:-1 tvg-id="ReelzChannel.us" tvg-name="|USA *| Reelz HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1zqgARm2DuqR8Dg-CkKMFSzdOFoF6zzFI5VBjtHuSJu1_HvYnbqLFnyY" group-title="USA",|USA *| Reelz HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31605.ts
+#EXTINF:-1 tvg-id="StarzEdge.us" tvg-name="|USA *| Starz Edge" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIMwaT5Q-IYK3pBdB8zGR1SY62yTNqG1ZEWjjQzQI4jinWt4Se1N2Jgz4" group-title="USA",|USA *| Starz Edge
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31602.ts
+#EXTINF:-1 tvg-id="StarzCinema.us" tvg-name="|USA  | Starz Cinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGpFQW56QwWhhNZrD6jdNN7mgAkpGW9nidV3DlTBWOoq1lQALZqO3byUw" group-title="USA",|USA  | Starz Cinema
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31745.ts
+#EXTINF:-1 tvg-id="StarzComedy.us" tvg-name="|USA  | Starz Comedy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc77jqc40Z9K3kRFbhtH0Qm-DE7lZdy1sNUpfB7Mg3oazTdMzORac6Kz8" group-title="USA",|USA  | Starz Comedy
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31746.ts
+#EXTINF:-1 tvg-id="Starz.us" tvg-name="|USA  | Starz East" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSxYM4CDu5khyI05lMuuHtwQoUGQrp_Lgubbvq3-SPRfUAWO1nHbopJS9i" group-title="USA",|USA  | Starz East
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31747.ts
+#EXTINF:-1 tvg-id="StarzEdge.us" tvg-name="|USA  | STARZ EDGE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlYrzmfXvxZ_3zrwEp3YANDmoydiJZ6gVwvKa2FbesBDe2c5ZD5Wv9Z6I" group-title="USA",|USA  | STARZ EDGE HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31841.ts
+#EXTINF:-1 tvg-id="StarzEncore.us" tvg-name="|USA  | Starz Encore" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLZEnLjVz21bdfjE3zcMX1itXoR4QWt_iCcT9SKMmz52rJkR_Z12CB6Gfj" group-title="USA",|USA  | Starz Encore
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31748.ts
+#EXTINF:-1 tvg-id="SundanceTV.us" tvg-name="|USA *| Sundance HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOmuHmUntEa8qHFgX2WpKJGmX8k5B6ZCP1pU62PZKFF4Zcv5Bixja5VA" group-title="USA",|USA *| Sundance HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31601.ts
+#EXTINF:-1 tvg-id="AFNMovie.us" tvg-name="|USA  | AFN MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRYqxtU3-LHIUrcP4NYujeG58_U3Q4PnB3cUv1UmhIgsisMRffAvop7g" group-title="USA",|USA  | AFN MOVIE
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31819.ts
+#EXTINF:-1 tvg-id="AFNSpectrum.us" tvg-name="|USA  | AFN SPECTRUM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGrAnjRGGgsG50rNsqZMY4pKb9jWo6iET_CYn68-lVoajSBq2kp6kwG6mfGg" group-title="USA",|USA  | AFN SPECTRUM
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31824.ts
+#EXTINF:-1 tvg-id="Syfy.us" tvg-name="|USA *| SYFY HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXyod06-5j_he10UcgX2-_vHbalgY1ZEmRxc5S_koOPb3ZRlHZjsqjAuXi" group-title="USA",|USA *| SYFY HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31600.ts
+#EXTINF:-1 tvg-id="Syfy.us" tvg-name="|USA  | SYFY HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzR6CreUH-PyC3CGHIu3Zc6Bu2IiQJztiL11KfCluNI59gp2BSvVrUGc-S" group-title="USA",|USA  | SYFY HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31761.ts
+#EXTINF:-1 tvg-id="Showtime2.us" tvg-name="|USA  | Showtime 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpTSEEa_phxm51NtwPllVqiz6Shjy4eD8qQMpWF9ur7br3fzGzgK4PJfY" group-title="USA",|USA  | Showtime 2
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31742.ts
+#EXTINF:-1 tvg-id="Showtime.us" tvg-name="|USA  | SHOWTIME HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Kfnj67mt94tfXwVssJ9uM-auWPOW-NgsCSTlKda0NYGLhB1FbfXxLzg" group-title="USA",|USA  | SHOWTIME HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31743.ts
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | Showtime West" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKRuzOSgDXfj75h7Cf92L-JlWE0PDAUUGC4J6ruyVIubDjjETkw8rLY-I" group-title="USA",|USA  | Showtime West
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31744.ts
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | ***** USA NEWS *****" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgwo-ON4P4hF4NkkQcadtzvL83RTkXSX7g-VNyxZEltjkg7op_y-XIAbhj" group-title="USA",|USA  | ***** USA NEWS *****
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31848.ts
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | DW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0ask2k_sqE-Zbz2ZPwWfcRpdnVRgHW7o42ehtStyYYGYyoAILUsuneIM" group-title="USA",|USA  | DW
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31734.ts
+#EXTINF:-1 tvg-id="ABC.us" tvg-name="|USA  | ABC HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHgYcCWc6TviQXxEQTFx2NqAFfaQkL_7xtD-HkbKSYemIeeZbw60reylUL" group-title="USA",|USA  | ABC HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31750.ts
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | ABC NEWS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfCNuHSdkTZUVmDK5H23cQ8cz56lhrAZXnD44QdzFgTkHMTZSmoa_iHVU" group-title="USA",|USA  | ABC NEWS HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31751.ts
+#EXTINF:-1 tvg-id="ABC.us" tvg-name="|USA *| ABC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGG7EsxoIM_0N4xIUeeJf2JRX2xqlzsE9M5_szCv_wKwvGNLH4j3q0l4C0" group-title="USA",|USA *| ABC
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31686.ts
+#EXTINF:-1 tvg-id="ABC.us" tvg-name="|USA *| ABC HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmcPOINDEa32LU2cqsndb65Y2P7vsKOBdJoMvgrok1FIhimtvueFmC5xcs" group-title="USA",|USA *| ABC HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31696.ts
+#EXTINF:-1 tvg-id="" tvg-name="|USA *| ABC News HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWagroDwNX6-nzrgKS8t0Ew6rQwWPalKaYGninJT7LF1IycB2j9H76K8k" group-title="USA",|USA *| ABC News HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31685.ts
+#EXTINF:-1 tvg-id="CSPAN.us" tvg-name="|USA *| C-SPAN 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqDTh7-OHx4MEeXaU4YscWPfP2t2V2_SbcD3b0SFybXJJkXI_vL04h8IaH-w" group-title="USA",|USA *| C-SPAN 1 HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31671.ts
+#EXTINF:-1 tvg-id="CSPAN2.us" tvg-name="|USA *| C-SPAN 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRTbGbvu6UmyDKN-xOjqQzGEx2DsdtUupC89HvIQDuCDQCkTaE6hOHuWS6" group-title="USA",|USA *| C-SPAN 2 HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31670.ts
+#EXTINF:-1 tvg-id="CSPAN3.us" tvg-name="|USA *| C-SPAN 3 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqDTh7-OHx4MEeXaU4YscWPfP2t2V2_SbcD3b0SFybXJJkXI_vL04h8IaH-w" group-title="USA",|USA *| C-SPAN 3 HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31669.ts
+#EXTINF:-1 tvg-id="CSPAN.us" tvg-name="|USA  | C-Span 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjGcmcCLZySViU-v2LVYxx_SbEbpRL0y8DsbXY1UVj42V7eplGwxfBHmk" group-title="USA",|USA  | C-Span 1
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31800.ts
+#EXTINF:-1 tvg-id="CSPAN2.us" tvg-name="|USA  | C-Span 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN8bfYD59I2ubz9k-ItxD6Pcgc27lnsydJgl5dNr_w7WXVvALjm4xLTQ37" group-title="USA",|USA  | C-Span 2
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31801.ts
+#EXTINF:-1 tvg-id="CSPAN3.us" tvg-name="|USA  | C-Span 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2PNvFnZOQ2PAo9chgiEW0Ufj_k08wrqCXCqO5BOH6Hgss4r1z8I17jlDv" group-title="USA",|USA  | C-Span 3
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31802.ts
+#EXTINF:-1 tvg-id="CNBC.us" tvg-name="|USA  | CNBC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhVPoUwySf2cjRRCY4GrIqN2rpml7fKTIHV0tFtwsq9fgfr2afZ4HgNwI" group-title="USA",|USA  | CNBC
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31732.ts
+#EXTINF:-1 tvg-id="" tvg-name="|USA *| CBN HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfegmhbiaMBvZVrCYfd5tQZOueu7zN6gNrs5gQQB3lWgYPt1qDdiW-mrc" group-title="USA",|USA *| CBN HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31667.ts
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="|USA *| CNN HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJGTbwmlXcyj8ppyeL0AtVGKDDYDyPGLIAuegSxpl5U719W-2ETD9tESHr" group-title="USA",|USA *| CNN HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31692.ts
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="|USA  | CNN HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4KnnzKspHPS6MaHjrY6YpXqICnBTBtwfwE8aNuwNII5P6sWdmO4hFcBWX" group-title="USA",|USA  | CNN HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31804.ts
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="|USA  | CNN HD *" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4KnnzKspHPS6MaHjrY6YpXqICnBTBtwfwE8aNuwNII5P6sWdmO4hFcBWX" group-title="USA",|USA  | CNN HD *
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31718.ts
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="|USA  | CNN US HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ6WIXiocQxk0cdenWshAhxt6zikAwpouzmK7fflaHxLFWIqv9eDQbyy6s" group-title="USA",|USA  | CNN US HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31780.ts
+#EXTINF:-1 tvg-id="FOX.us" tvg-name="|USA  | Fox HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcV9b6Rqnufn0xImp4c-SK9kRUBSHH-rUyRHDjnj8p-2NMDMuj_jPeQP4" group-title="USA",|USA  | Fox HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31725.ts
+#EXTINF:-1 tvg-id="FoxBusiness.us" tvg-name="|USA *| FOX Business Network HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTADAQGJYigRkrHWrWvVPgW_dxc2ZICL6maxcH3bmh8ujBIvRnLEG5CB7An" group-title="USA",|USA *| FOX Business Network HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31640.ts
+#EXTINF:-1 tvg-id="FoxNews.us" tvg-name="|USA *| FOX News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd_uZCGJnIR4kHghewdpauA8CODgdxYMfcJUDj6S-nEV4JBMFVLb2WfstH" group-title="USA",|USA *| FOX News
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31638.ts
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="|USA *| MSNBC HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRTT2DcGs6j1H_ngW7j3f4f2oFyqKF7AaB3hJiY1IoJ53feOuaK-imG1tO" group-title="USA",|USA *| MSNBC HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31617.ts
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="|USA  | MSNBC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqNfp7tX_WYlMCwhoH_nXA6zP_-BL8aMIir5DOjvdOxKimlv1S2A9GD2t7" group-title="USA",|USA  | MSNBC
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31724.ts
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="|USA  | MSNBC HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX_GudDFUAOgJefCUtG64h4R2HUjiNA2znM726lz0ODQUT-UbG0ulvtpDZ" group-title="USA",|USA  | MSNBC HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31808.ts
+#EXTINF:-1 tvg-id="AFNNews.us" tvg-name="|USA  | AFN NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9Auzj_z8zCYd_xmK2wj34kWR78Y7G7EZyRkOWjOEA6O2jsNept2Q46a40sA" group-title="USA",|USA  | AFN NEWS
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31820.ts
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | ***** USA DISCOVERY *****" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqETwgqPg-ztSttf3NyElOrO2CDEX9_xFBo8JzIcRebqaR_cqJ_T5Ls6-t" group-title="USA",|USA  | ***** USA DISCOVERY *****
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31846.ts
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="|USA *| Animal Planet HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9I5QeMdh9KISO-msDhDu4L-1wuO8qNinqBNl8aZrR2amtdaMuMI7lrPc" group-title="USA",|USA *| Animal Planet HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31679.ts
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="|USA  | ANIMAL PLANET HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5XUYI7n-QXWhNkzLuMplVC7Hz3jCc1FdMJ0AviE1Etxig3apUZdG58SXP" group-title="USA",|USA  | ANIMAL PLANET HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31799.ts
+#EXTINF:-1 tvg-id="CrimeInvestigation.us" tvg-name="|USA *| Crime & Investigation HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8e7uopp2fiJe6jDvfiJrm_31tEzv9mpUDDAZc8pB7AW-bErF_CPUkBA" group-title="USA",|USA *| Crime & Investigation HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31659.ts
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="|USA *| Discovery Channel HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRWqyxmb9z5bOyC0vOOIU_SInUFFvS94O_P4HEZjQLBtbYdxg8i3YVJAU" group-title="USA",|USA *| Discovery Channel HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31656.ts
+#EXTINF:-1 tvg-id="DiscoveryFamily.us" tvg-name="|USA *| Discovery Family HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR14F8uY4v0fOuO7tTBtoGUOLah2hlgo6CK6bROJ0Zu2oB_O0PXfEugnKo" group-title="USA",|USA *| Discovery Family HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31655.ts
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="|USA *| Discovery HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRWqyxmb9z5bOyC0vOOIU_SInUFFvS94O_P4HEZjQLBtbYdxg8i3YVJAU" group-title="USA",|USA *| Discovery HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31695.ts
+#EXTINF:-1 tvg-id="DiscoveryScience.us" tvg-name="|USA *| Discovery Science HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRWqyxmb9z5bOyC0vOOIU_SInUFFvS94O_P4HEZjQLBtbYdxg8i3YVJAU" group-title="USA",|USA *| Discovery Science HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31654.ts
+#EXTINF:-1 tvg-id="DiscoveryVelocity.us" tvg-name="|USA *| Discovery Velocity HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy7mstK-ynHW6nGwIz1UKAY75GsMCwIsrc9PGNjNHOKmx7yhlayDaVBg-e" group-title="USA",|USA *| Discovery Velocity HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31653.ts
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="|USA  | DISCCOVERY HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6BBQqIjvIVeEiBERMLpZJ-18aTFQ4AXmy9yI4c6x5miMQxUa5MI7slIo" group-title="USA",|USA  | DISCCOVERY HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31733.ts
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="|USA  | Discovery Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt_Avg7x11d49m8pX1UnD7xN0ucYET4Mr_KOtaPJyAzN4wODRVe3mphsA" group-title="USA",|USA  | Discovery Channel
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31721.ts
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | Discovery HD Showcase" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvLR85tD2X4Yu8fGvudWjuyiLCTGXsBVF57RLcejkdYdKKfc-qNBMwRdg" group-title="USA",|USA  | Discovery HD Showcase
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31793.ts
+#EXTINF:-1 tvg-id="DiscoveryScience.us" tvg-name="|USA  | Discovery Science HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRM83YsMjLHGOnFJUdthfPq78KamVXXAeUWaBPhP9T1pWFqMbv57sjtDUo" group-title="USA",|USA  | Discovery Science HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31831.ts
+#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="|USA *| Investigation Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAimuS_if7mTHzEKLOYj9Irfs6QT91rkh0i0VKMItEA2MvRbSpOinuf0a6" group-title="USA",|USA *| Investigation Discovery
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31622.ts
+#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="|USA  | Investigation Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9NeCVpxRMv7PTIQ9RIfCK_WL58vOZPOC8o3jmjv0tev3z0wepOfzQclw" group-title="USA",|USA  | Investigation Discovery
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31758.ts
+#EXTINF:-1 tvg-id="NatGeo.us" tvg-name="|USA *| Nat Geo hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsqNxVjqZuoU5DIvGb-g5u9KEbqOmorlsR3Ip1TXpCFCEJaWSQg16d8iWJ" group-title="USA",|USA *| Nat Geo hd
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31615.ts
+#EXTINF:-1 tvg-id="NatGeo.us" tvg-name="|USA  | National Geographic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoGH2ABtM4qh3dh25hIbF4IhY1TQvYrQ5MXKYUqo6N8bdN6vHaD6afbD0" group-title="USA",|USA  | National Geographic
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31838.ts
+#EXTINF:-1 tvg-id="AmericanHeroesChannel.us" tvg-name="|USA  | AMERICAN HEROES CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvcM6cd2MWIe5SGkJoXFpIFLW3rm47DlE3mWdhrbfSYtGR__2DH6udYTI" group-title="USA",|USA  | AMERICAN HEROES CHANNEL
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31719.ts
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | Amazing Discoveries HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrJqDtJhpdt5dQE6kjJZkVlM2Rxy-y__JBDNVlOAHwIVUVM_EqDhfI9G5w" group-title="USA",|USA  | Amazing Discoveries HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31764.ts
+#EXTINF:-1 tvg-id="NASAChannel.us" tvg-name="|USA  | NASA TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX_GudDFUAOgJefCUtG64h4R2HUjiNA2znM726lz0ODQUT-UbG0ulvtpDZ" group-title="USA",|USA  | NASA TV HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31711.ts
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | ***** USA MUSIC *****" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG-WWq9Y4_gEkHQPY-hqXAZwIQvF-l6fvbMMQrltuFh4Z5YPfV4UZr5y5D" group-title="USA",|USA  | ***** USA MUSIC *****
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31845.ts
+#EXTINF:-1 tvg-id="MTV.us" tvg-name="|USA  | MTV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1VgtX3xGKorydHaiLxSPr4lhg-GQ2otc9THAiW-1ufagdQga70fYG-7s" group-title="USA",|USA  | MTV HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31707.ts
+#EXTINF:-1 tvg-id="VH1.us" tvg-name="|USA  | VH1 Classic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7AtbBrhcZWfVJSf_oYGjhwRS2Gxy6i3Thga4yILvgOftRh9jFEV6nBC0" group-title="USA",|USA  | VH1 Classic
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31787.ts
+#EXTINF:-1 tvg-id="MTV.us" tvg-name="|USA *| MTV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1VgtX3xGKorydHaiLxSPr4lhg-GQ2otc9THAiW-1ufagdQga70fYG-7s" group-title="USA",|USA *| MTV HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31616.ts
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | ***** USA CULTURE *****" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShJV6NnAEqFFDf8wok2nsbTmfwD-UKai7rNFqi9d-a2psgNvmfoLb1wuAI" group-title="USA",|USA  | ***** USA CULTURE *****
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31847.ts
+#EXTINF:-1 tvg-id="AandE.us" tvg-name="|USA *| A and E HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwtm2RMS0RQHm2Is36TQJr6AhpHuouhqPipWUzq5v7K0gZgPANMJ6HmCV3" group-title="USA",|USA *| A and E HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31687.ts
+#EXTINF:-1 tvg-id="AFNPrimeAtlantic.us" tvg-name="|USA *| AFN Prime Atlantic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXHPz01Gr6Z0RpJeoKIfYdTsYkyMa4P2SdBCHTKzKXDLdj5tHOSMCqTgDC" group-title="USA",|USA *| AFN Prime Atlantic
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31683.ts
+#EXTINF:-1 tvg-id="AFNPrimePacific.us" tvg-name="|USA *| AFN Prime Pacific" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVORtw1liHUXTASgFMNio_c2IcTDxLacJTKHkmUuyX8Jv_Km56q8XSjA" group-title="USA",|USA *| AFN Prime Pacific
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31682.ts
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="|USA *| AMC HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC9Nwq0wSWfd3OlCnY2vq_gMfQAmjnk8mSEqOdWDpSTwGPYfsseZztEQ" group-title="USA",|USA *| AMC HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31697.ts
+#EXTINF:-1 tvg-id="Bravo.us" tvg-name="|USA *| Bravo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLZlrWr1cvW0MocKbh-Ljvu8j8xhOWnjTU3vPomOYBYcDBThD01nFD76kA" group-title="USA",|USA *| Bravo
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31673.ts
+#EXTINF:-1 tvg-id="Bravo.us" tvg-name="|USA *| Bravo HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKVLoQeyhenheRRJzRW4U9xuIBhcZ2xAVZQ5vX2gQ4FOj2EufotgFMgfo" group-title="USA",|USA *| Bravo HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31694.ts
+#EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="|USA *| Cooking Channel HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMML-Y7V_4DYKJlltSfnKBt7CuyrL4rLf8hdFfRTlcT5ZHmeBXFNhVTUMd" group-title="USA",|USA *| Cooking Channel HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31660.ts
+#EXTINF:-1 tvg-id="CW.us" tvg-name="|USA *| CW HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRemyU-Ga7NxCOjfJH7y1u1zIK1rw3KFSk4-vINPa5NDwy8MaOXPNo8n5q" group-title="USA",|USA *| CW HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31658.ts
+#EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="|USA *| Destination America" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQybxq8lsFS9LJx1NBWpArRxX0SZ_jyuLcy6D8NTUNybVZnGCt6QPxnc3A" group-title="USA",|USA *| Destination America
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31657.ts
+#EXTINF:-1 tvg-id="" tvg-name="|USA *| DIY Network HD**" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-RbzD1d6zP0hO51dFj26M5-m0wqFRutYmCPAVvH-1vM1uvteKUiS7Q2c" group-title="USA",|USA *| DIY Network HD**
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31650.ts
+#EXTINF:-1 tvg-id="" tvg-name="|USA *| DTX HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpFZTMNO49fv7O9fVMoQ2xViElDs-RiIM_fwFaGVEilhyn2kNwJvHL0Mtc" group-title="USA",|USA *| DTX HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31649.ts
+#EXTINF:-1 tvg-id="EEntertainment.us" tvg-name="|USA *| E! HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwtm2RMS0RQHm2Is36TQJr6AhpHuouhqPipWUzq5v7K0gZgPANMJ6HmCV3" group-title="USA",|USA *| E! HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31648.ts
+#EXTINF:-1 tvg-id="" tvg-name="|USA *| FOX 29 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7EGfKZAREYFBO9dcqRWeSPnR0XpBrzwEHFEjtwRaX7qAvyP_H_2Fhzi-xYg" group-title="USA",|USA *| FOX 29 HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31691.ts
+#EXTINF:-1 tvg-id="FOX.us" tvg-name="|USA *| FOX HD**" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxF7OVlhyupiFjkgbKvQHzGql6vS-6eyi46346FH-y5oPrg_n5khkhTmg" group-title="USA",|USA *| FOX HD**
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31639.ts
+#EXTINF:-1 tvg-id="Freeform.us" tvg-name="|USA *| Freeform HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7FKXACZAK4ssAyrEG3tgijJNX2qm6APruKZ666jXOKtAKaDWcXIqmthWt" group-title="USA",|USA *| Freeform HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31637.ts
+#EXTINF:-1 tvg-id="" tvg-name="|USA *| GSN HD*" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGy1wIbRUu2pNBBaQ5XAWw97issF8D0kudA32EBXQvRHqB8I8qeM0TaNjT" group-title="USA",|USA *| GSN HD*
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31633.ts
+#EXTINF:-1 tvg-id="" tvg-name="|USA *| H2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmuoD52IsxWWBKWBujQ8bBRmi46kAYnIi7ictfIGc8q0Yp7jzTZmPDRcB5" group-title="USA",|USA *| H2
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31632.ts
+#EXTINF:-1 tvg-id="Hallmark.us" tvg-name="|USA *| Hall Mark HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw8iXUeIfcLZZEvjkTMYVsx5TXeFVz6e95LM98Fut6DyM0gnzDHn4vmT0" group-title="USA",|USA *| Hall Mark HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31631.ts
+#EXTINF:-1 tvg-id="Hallmark.us" tvg-name="|USA *| HallMark" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpGtj81N9ZtvTptQHrXCp9wzqTwraM3Y-uMrvzT2Pphxdhb1VcCRrg1krp" group-title="USA",|USA *| HallMark
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31630.ts
+#EXTINF:-1 tvg-id="HGTV.us" tvg-name="|USA *| HGTV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfFf5EywnnOy9kyCF_5AFOoG0QphMdca1mH-Rz9OpcaOjpfpXzolV5Rx4" group-title="USA",|USA *| HGTV HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31689.ts
+#EXTINF:-1 tvg-id="HistoryChannel.us" tvg-name="|USA *| History" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTNqi-neUZnF2_oSf2153MXbHfXCss6diQA0OaiJuzTgZrgfTyghYPn4YZ" group-title="USA",|USA *| History
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31624.ts
+#EXTINF:-1 tvg-id="" tvg-name="|USA *| IFC HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCUnVxIMG5J46LYpP6v5063imw2xhrYnGukSbj8sWutM3c6F-m5znnt8yR" group-title="USA",|USA *| IFC HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31623.ts
+#EXTINF:-1 tvg-id="LifetimeNetwork.us" tvg-name="|USA *| Life Time" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0I-a75bgesM9eZXsF_y8ojmw7DOMnsKwRGEJeBvtwFgDWgL62THZl0WDy" group-title="USA",|USA *| Life Time
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31621.ts
+#EXTINF:-1 tvg-id="LMN.us" tvg-name="|USA *| LMN HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5A2ICOu0tHqyBt14IjQDmwEH37SqdL5H07kvaI97ngywpXP6Qv_ItF5EM5A" group-title="USA",|USA *| LMN HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31620.ts
+#EXTINF:-1 tvg-id="MoreMax.us" tvg-name="|USA *| More Max HD*" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMQ9kkV06wpTVXeymXEA2RqkycNYioKxN7oHEa0Lqj66QKQ0VNxCzwyRFA" group-title="USA",|USA *| More Max HD*
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31618.ts
+#EXTINF:-1 tvg-id="Oxygen.us" tvg-name="|USA *| Oxygen HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwtm2RMS0RQHm2Is36TQJr6AhpHuouhqPipWUzq5v7K0gZgPANMJ6HmCV3" group-title="USA",|USA *| Oxygen HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31607.ts
+#EXTINF:-1 tvg-id="PBSBostonWGBH.us" tvg-name="|USA *| PBS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0jmpE4Wku-daSe55hniVGKUfvCbCXHwCD1tyAcDuYbj8Um2QjlFwQl-RV" group-title="USA",|USA *| PBS HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31606.ts
+#EXTINF:-1 tvg-id="" tvg-name="|USA *| Spike HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGS_xpFx3UjoPRQ5HrLLQCT0XMWiYZTlg5wOL2nU9iVC9HcetV50_6GCbO" group-title="USA",|USA *| Spike HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31603.ts
+#EXTINF:-1 tvg-id="TBS.us" tvg-name="|USA *| TBS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHxINHvq-rS2bWH4Apn4gUyPO8sVkvvDQ8qa_IiXE83h1ShUaLADMHT6k" group-title="USA",|USA *| TBS HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31688.ts
+#EXTINF:-1 tvg-id="WeatherChannel.us" tvg-name="|USA *| The Weather Channel HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB1oJjHYQ1vZhYm4o0eT0Supw2FxgLTZCXzrvhVog0Co7fl6w9A6qxgg" group-title="USA",|USA *| The Weather Channel HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31598.ts
+#EXTINF:-1 tvg-id="TLC.us" tvg-name="|USA *| TLC HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvWzCTEHyD4hfPsHRhDJhgX9Pjpu-sjZFzjSV1WCtkjlaJhvoL1qDereO8" group-title="USA",|USA *| TLC HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31597.ts
+#EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="|USA *| Travel Channel HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_2L53kmtOjT3KhkQWg5ZXbIdXJVN7zFHc62VkLW_Z0ExfFEOmLIw0Tg" group-title="USA",|USA *| Travel Channel HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31595.ts
+#EXTINF:-1 tvg-id="TVLandEast.us" tvg-name="|USA *| TV Land HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM865RuQM22wyTIg2NGHMi9SO41H_9BEtVY_zFk9SvERH_zGzUfQ0ZdMAv" group-title="USA",|USA *| TV Land HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31594.ts
+#EXTINF:-1 tvg-id="" tvg-name="|USA *| Universal HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtqwHHCe6YJBO9Rctcxhk7lYvYrupxrraPUvnZBZQa642a4NSwYqdBXSDI" group-title="USA",|USA *| Universal HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31593.ts
+#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="|USA *| USA Network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhnBSsAraTaVYAhyalE4px7-E5xMcMvAT1Ec-GSpwnbqC0GvzBxGAZowGz" group-title="USA",|USA *| USA Network
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31592.ts
+#EXTINF:-1 tvg-id="AandE.us" tvg-name="|USA  | A&E HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs6uGnDIq7wAZ32FihOtvey2jw2fnrXjBJzEg8KKwOv3cqAal85Cy_kVA" group-title="USA",|USA  | A&E HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31763.ts
+#EXTINF:-1 tvg-id="AFNPrimeAtlantic.us" tvg-name="|USA  | AFN PRIME ATLANTIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPmXpKjhfWZ7IYuzcCTjyWdbPvTsTBLpYFvwCiQEVMaVHauKp7RwkYRQ" group-title="USA",|USA  | AFN PRIME ATLANTIC
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31821.ts
+#EXTINF:-1 tvg-id="AFNPrimePacific.us" tvg-name="|USA  | AFN PRIME PACIFIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjA_OIfoA58mATsQjJcmrUuRq59kko8ULiCnf9UZTUNJLlPAKC_QQ6bNU" group-title="USA",|USA  | AFN PRIME PACIFIC
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31822.ts
+#EXTINF:-1 tvg-id="AFNPulse.us" tvg-name="|USA  | AFN PULSE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQSWWCOf7yaPD6AK5yyNjZLupmZ2AKdL6_vFNE8zbXSH6HU_YkxfsceDw" group-title="USA",|USA  | AFN PULSE
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31823.ts
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="|USA  | AMC HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQhNvvYErZ0rgWxhsxhBTq6kVuKD1CqqQca7Z2tUJ4hUCQiqqz0_eog48" group-title="USA",|USA  | AMC HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31728.ts
+#EXTINF:-1 tvg-id="Bravo.us" tvg-name="|USA  | BRAVO HD(1)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzTonruDdblLbnQAY0eEsdl95djItYsIwZmJyMrXP7bBEqC8EomgxysIx3" group-title="USA",|USA  | BRAVO HD(1)
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31752.ts
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | BYU TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS3eKIMYiA_qTFSWY_qRYQeKrLPlrJxtEa-2hkmhavHx1ofACY1VXjqLbE" group-title="USA",|USA  | BYU TV
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31729.ts
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | CAPITAL TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ7F4mLFKEkaET6ht1Fo9ym-V3Gdf8U0PJbD9lFlEm43KyBUH3I4iJQEHf" group-title="USA",|USA  | CAPITAL TV
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31784.ts
+#EXTINF:-1 tvg-id="CW.us" tvg-name="|USA  | CW HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX_GudDFUAOgJefCUtG64h4R2HUjiNA2znM726lz0ODQUT-UbG0ulvtpDZ" group-title="USA",|USA  | CW HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31754.ts
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | CW11" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4f-23bdCCIOOjbNm8BFaVLK76W2qLZR2A0jFJ2KivYuPeyw2dCueQhBS9" group-title="USA",|USA  | CW11
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31794.ts
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | DIY Network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFvbYoZCHKplqo9tTDxEO7s8iDY6g4GUj_BNvGDfnicEP44jpgXbLzDR-w" group-title="USA",|USA  | DIY Network
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31832.ts
+#EXTINF:-1 tvg-id="EEntertainment.us" tvg-name="|USA  | E!" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGk-XN4SfI9G0w8OodXSdjnrYgiiEIZfP-k36R0YeFp5qMe6r09ezVvv9A" group-title="USA",|USA  | E!
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31723.ts
+#EXTINF:-1 tvg-id="ESPNNews.us" tvg-name="|USA  | ESPN News US HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2GHJe_lyHLEbtV6_iCWkTsa7JQJ3H6bDhpBW96dpxRIPee744INu1nRk" group-title="USA",|USA  | ESPN News US HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31779.ts
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | Fine Living" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyD90yOdlvTu-W7n5p6cED6eD2wIX20KxszIE6TncxwjoLgoKLMquKOPU6" group-title="USA",|USA  | Fine Living
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31792.ts
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="|USA  | Food Network HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKzu4YUiTpwJM6BdaNmTpLAhMy05gpRgbnz7p7fSodaDYqib6iFlLCQWxS" group-title="USA",|USA  | Food Network HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31833.ts
+#EXTINF:-1 tvg-id="Grit.us" tvg-name="|USA  | GRIT TV Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZK7SHpijSYo4sADBjYjx6d6dfO2RsZNMEQU99qhe87TzP--hUM6HA9_0c" group-title="USA",|USA  | GRIT TV Movies
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31717.ts
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | H2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsjSa5VirlVM4mp_SzuOiRHljL-qwOtuUS8QPepsBBe8IVNuAXmC9ErwE" group-title="USA",|USA  | H2
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31836.ts
+#EXTINF:-1 tvg-id="Hallmark.us" tvg-name="|USA  | HALLMARK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZDMKamxjD_jMyXPggVHQeMvjAods3mOtikCHY2xjw9x702gk0gldepnPX" group-title="USA",|USA  | HALLMARK
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31837.ts
+#EXTINF:-1 tvg-id="HGTV.us" tvg-name="|USA  | HGTV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_5kJgryMnUFnNXKphqjXxhEJneqdjtEFI5GMoMQdZI53mlTW306m85g" group-title="USA",|USA  | HGTV HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31790.ts
+#EXTINF:-1 tvg-id="HistoryChannel.us" tvg-name="|USA  | HISTORY HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ20FbN3993P3YEWdWn0Wd8-VNcKtCxqXtJTthNGMFC2znYVYo3QGFOnIY" group-title="USA",|USA  | HISTORY HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31757.ts
+#EXTINF:-1 tvg-id="ION.us" tvg-name="|USA  | ION Television East HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbDp0KtDpJYjqQCVVmColS9WTZYmYDBELrVCsk1UtRZpNcxqqSkN6Y-cz3" group-title="USA",|USA  | ION Television East HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31777.ts
+#EXTINF:-1 tvg-id="LifetimeMovies.us" tvg-name="|USA  | Lifetime Movie Network HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdMajHqkd5f5rdorVBggL5_bU5As_gvJcKc0bgPDzykDSDLl5ZFB6v-ds" group-title="USA",|USA  | Lifetime Movie Network HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31776.ts
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | MelloTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4f-23bdCCIOOjbNm8BFaVLK76W2qLZR2A0jFJ2KivYuPeyw2dCueQhBS9" group-title="USA",|USA  | MelloTV
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31843.ts
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | MY13" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4f-23bdCCIOOjbNm8BFaVLK76W2qLZR2A0jFJ2KivYuPeyw2dCueQhBS9" group-title="USA",|USA  | MY13
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31715.ts
+#EXTINF:-1 tvg-id="My9.us" tvg-name="|USA  | MY9 TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS3eKIMYiA_qTFSWY_qRYQeKrLPlrJxtEa-2hkmhavHx1ofACY1VXjqLbE" group-title="USA",|USA  | MY9 TV
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31783.ts
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | Network (US)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHtqdEARGW9NkKAL8Nfle8c8LaIvdhZuy18jXoqVL1VJQCncaR9GxoUJo" group-title="USA",|USA  | Network (US)
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31760.ts
+#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="|USA  | OUTDOOR CHANNEL HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1iWimzaksWZpVKuFOpEPvbC9Yyx1JmRRU0Hyn77vxYYzcukKk-ODAnuA" group-title="USA",|USA  | OUTDOOR CHANNEL HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31789.ts
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | OWN HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6BBQqIjvIVeEiBERMLpZJ-18aTFQ4AXmy9yI4c6x5miMQxUa5MI7slIo" group-title="USA",|USA  | OWN HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31713.ts
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | Smile Of A Child" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnHJmk56Wv_GPHb-hb37tegL7r6Z39ykNvs8TT2s15OGo5WG0n6ccvVMo" group-title="USA",|USA  | Smile Of A Child
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31788.ts
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | SNY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOK0H42GaIuGz6R9KxEBt4Y3kDoO65GfnpIM5KpqJnKHsEmv2H-g3bMLaz" group-title="USA",|USA  | SNY
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31714.ts
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | SPIKE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6BBQqIjvIVeEiBERMLpZJ-18aTFQ4AXmy9yI4c6x5miMQxUa5MI7slIo" group-title="USA",|USA  | SPIKE HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31840.ts
+#EXTINF:-1 tvg-id="TBS.us" tvg-name="|USA  | TBS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbPeNZH6ttmfQLVmSHwZTJwRY6EXjN-4RX3RKZ50BdqDGZLaseuOMIxIo" group-title="USA",|USA  | TBS HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31811.ts
+#EXTINF:-1 tvg-id="TLC.us" tvg-name="|USA  | TLC HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAX84Bgl1MBhv0NYS5dyHGHTv_I_v_rWYbv49dKokwETJE10psSscM3L_V" group-title="USA",|USA  | TLC HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31774.ts
+#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="|USA  | USA Network HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6BBQqIjvIVeEiBERMLpZJ-18aTFQ4AXmy9yI4c6x5miMQxUa5MI7slIo" group-title="USA",|USA  | USA Network HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31842.ts
+#EXTINF:-1 tvg-id="WeatherChannel.us" tvg-name="|USA  | WEATHERNATION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnRDe0CZlPcWf8x7OSuo-d1q9DAq9IgAStA67EBLjFTMCPUh8WeuwT88O-" group-title="USA",|USA  | WEATHERNATION
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/31781.ts
+#EXTINF:-1 tvg-id="" tvg-name="###### -- |CA| CANADA |CA| -- ######" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaoqPI4VUJojapZotzue2eNQg_dborJMQHnUl9IcfYLdqPvz9Q_BJd6U0z" group-title="CANADA",###### -- |CA| CANADA |CA| -- ######
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/22454.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA*: A&E" tvg-logo="" group-title="CANADA",CA*: A&E
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/32249.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA*: CW HD" tvg-logo="" group-title="CANADA",CA*: CW HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/32248.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA*: E! HD" tvg-logo="" group-title="CANADA",CA*: E! HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/32253.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA*: FOX HD" tvg-logo="" group-title="CANADA",CA*: FOX HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/32252.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA*: Fox news" tvg-logo="" group-title="CANADA",CA*: Fox news
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/32231.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA*: Global HD" tvg-logo="" group-title="CANADA",CA*: Global HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/32247.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA*: HBO 2" tvg-logo="" group-title="CANADA",CA*: HBO 2
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/32246.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA*: HGTV" tvg-logo="" group-title="CANADA",CA*: HGTV
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/32245.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA*: HLN HD" tvg-logo="" group-title="CANADA",CA*: HLN HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/32244.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA*: MSNBC HD" tvg-logo="" group-title="CANADA",CA*: MSNBC HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/32243.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA*: PBS FHD" tvg-logo="" group-title="CANADA",CA*: PBS FHD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/32230.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA*: PBS HD" tvg-logo="" group-title="CANADA",CA*: PBS HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/32241.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA*: Sportnet Ontario HD" tvg-logo="" group-title="CANADA",CA*: Sportnet Ontario HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/32232.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA*: Sportnet Pacific HD" tvg-logo="" group-title="CANADA",CA*: Sportnet Pacific HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/32234.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA*: Sports NET Pacific HD" tvg-logo="" group-title="CANADA",CA*: Sports NET Pacific HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/32251.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA*: Sports NET West HD" tvg-logo="" group-title="CANADA",CA*: Sports NET West HD
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/32250.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA*: Sports Net World" tvg-logo="" group-title="CANADA",CA*: Sports Net World
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/32236.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA*: sportsnet 360 hd(1)" tvg-logo="" group-title="CANADA",CA*: sportsnet 360 hd(1)
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/32233.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA*: TSNET Eeast" tvg-logo="" group-title="CANADA",CA*: TSNET Eeast
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/32240.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA*: TSNET One" tvg-logo="" group-title="CANADA",CA*: TSNET One
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/32239.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA*: TSNET Ontario" tvg-logo="" group-title="CANADA",CA*: TSNET Ontario
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/32238.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA*: TSNET West" tvg-logo="" group-title="CANADA",CA*: TSNET West
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/32237.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA*: W" tvg-logo="" group-title="CANADA",CA*: W
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/32235.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA*: World Fishing Network" tvg-logo="" group-title="CANADA",CA*: World Fishing Network
+http://vip.webvps.de:25443/live/qn562iokyN/aFiAW91ACg/32242.ts
